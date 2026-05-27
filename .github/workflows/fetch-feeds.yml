@@ -15,16 +15,24 @@ on:
 permissions:
   contents: write
 
+# Only one fetch run at a time. If a manual run is triggered while the cron
+# run is still in flight, queue (don't cancel) so we never have two pushes
+# racing each other.
+concurrency:
+  group: fetch-feeds
+  cancel-in-progress: false
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Fetch feeds
         run: |
-          set -e
           mkdir -p feeds
 
           # A modern Chrome UA — some publishers serve an empty body to non-
@@ -44,10 +52,6 @@ jobs:
             echo "─────────────────────────────────────"
             echo "→ $slug"
             echo "  $url"
-            # -w prints the final HTTP status to stdout; -D dumps headers; the
-            # XML body lands in $tmp. We don't use -f / --fail so we get a
-            # chance to log empty / unexpected responses instead of silently
-            # treating them as success.
             status=$(curl -sSL --max-time 30 \
               -A "$UA" \
               -H "Accept: application/rss+xml, application/xml;q=0.9, */*;q=0.5" \
@@ -56,22 +60,24 @@ jobs:
               -o "$tmp" \
               -w "%{http_code}" \
               "$url" || echo "curl_error")
-            size=$(wc -c < "$tmp" | tr -d ' ')
+            size=$(wc -c < "$tmp" 2>/dev/null | tr -d ' ' || echo "0")
+            size="${size:-0}"
             echo "  HTTP $status, $size bytes"
 
-            if [ "$status" = "200" ] && [ "$size" -gt 200 ]; then
-              # Looks like real content. Use it.
+            if [ "$status" = "200" ] && [ "$size" -gt 200 ] 2>/dev/null; then
               mv "$tmp" "feeds/$slug.xml"
-              # Spot-check: confirm it actually parses as XML (has a root tag)
-              head -c 200 "feeds/$slug.xml" | grep -q '<' && echo "  ✓ XML-looking content" || echo "  ⚠️ no XML tags in first 200 bytes"
+              if head -c 200 "feeds/$slug.xml" | grep -q '<'; then
+                echo "  ✓ XML-looking content saved"
+              else
+                echo "  ⚠️ no XML tags in first 200 bytes — saved anyway, will diagnose"
+              fi
             else
               echo "  ✗ rejected (need HTTP 200 + >200 bytes)"
               echo "  first 400 chars of response:"
-              head -c 400 "$tmp" | sed 's/^/    /'
+              head -c 400 "$tmp" 2>/dev/null | sed 's/^/    /' || true
               echo ""
               rm -f "$tmp"
-              # Keep any previous good copy of feeds/$slug.xml — don't overwrite
-              # it with an empty/broken one.
+              # Keep any previous good copy of feeds/$slug.xml.
             fi
           done
 
@@ -82,7 +88,20 @@ jobs:
           git add feeds/
           if git diff --staged --quiet; then
             echo "No feed changes; nothing to commit."
-          else
-            git commit -m "feeds: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            exit 0
           fi
+          git commit -m "feeds: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+
+          # Retry push up to 3x in case another run pushed while we were
+          # working. Pull --rebase keeps our commit on top of any concurrent
+          # change without merging.
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "push attempt $attempt rejected; pulling --rebase and retrying"
+            git pull --rebase
+          done
+          echo "push failed after 3 attempts"
+          exit 1
