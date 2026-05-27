@@ -26,7 +26,11 @@ jobs:
         run: |
           set -e
           mkdir -p feeds
-          UA='Mozilla/5.0 (compatible; PPMMA-FeedProxy/1.0; +https://ppmma.org)'
+
+          # A modern Chrome UA — some publishers serve an empty body to non-
+          # browser user-agents, so we pretend to be a real browser. Accept
+          # headers nudge them toward RSS/XML over an HTML interstitial.
+          UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36'
 
           # Add more feeds by appending lines: SLUG|URL
           FEEDS=(
@@ -36,10 +40,39 @@ jobs:
           for entry in "${FEEDS[@]}"; do
             slug="${entry%%|*}"
             url="${entry#*|}"
-            echo "→ $slug ($url)"
-            curl -sSL --fail --max-time 30 -A "$UA" "$url" \
-              -o "feeds/$slug.xml" \
-              || echo "  ✗ fetch failed for $slug (kept previous copy if any)"
+            tmp="$(mktemp)"
+            echo "─────────────────────────────────────"
+            echo "→ $slug"
+            echo "  $url"
+            # -w prints the final HTTP status to stdout; -D dumps headers; the
+            # XML body lands in $tmp. We don't use -f / --fail so we get a
+            # chance to log empty / unexpected responses instead of silently
+            # treating them as success.
+            status=$(curl -sSL --max-time 30 \
+              -A "$UA" \
+              -H "Accept: application/rss+xml, application/xml;q=0.9, */*;q=0.5" \
+              -H "Accept-Language: en-US,en;q=0.9" \
+              -H "Cache-Control: no-cache" \
+              -o "$tmp" \
+              -w "%{http_code}" \
+              "$url" || echo "curl_error")
+            size=$(wc -c < "$tmp" | tr -d ' ')
+            echo "  HTTP $status, $size bytes"
+
+            if [ "$status" = "200" ] && [ "$size" -gt 200 ]; then
+              # Looks like real content. Use it.
+              mv "$tmp" "feeds/$slug.xml"
+              # Spot-check: confirm it actually parses as XML (has a root tag)
+              head -c 200 "feeds/$slug.xml" | grep -q '<' && echo "  ✓ XML-looking content" || echo "  ⚠️ no XML tags in first 200 bytes"
+            else
+              echo "  ✗ rejected (need HTTP 200 + >200 bytes)"
+              echo "  first 400 chars of response:"
+              head -c 400 "$tmp" | sed 's/^/    /'
+              echo ""
+              rm -f "$tmp"
+              # Keep any previous good copy of feeds/$slug.xml — don't overwrite
+              # it with an empty/broken one.
+            fi
           done
 
       - name: Commit & push if changed
