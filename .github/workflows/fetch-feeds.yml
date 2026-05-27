@@ -1,0 +1,55 @@
+name: Fetch feeds
+
+# Pull RSS feeds that block Cloudflare Workers' IP range (e.g. Seattle Times
+# behind CloudFront). GitHub Actions runners use Azure IPs that publishers
+# don't typically block, so we fetch here and commit the XML back into the
+# repo. The news-stand worker then polls the raw.githubusercontent.com URL
+# instead of the original source.
+
+on:
+  schedule:
+    # Every 30 minutes
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {} # manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch feeds
+        run: |
+          set -e
+          mkdir -p feeds
+          UA='Mozilla/5.0 (compatible; PPMMA-FeedProxy/1.0; +https://ppmma.org)'
+
+          # Add more feeds by appending lines: SLUG|URL
+          FEEDS=(
+            "seattle-times|https://www.seattletimes.com/feed/"
+          )
+
+          for entry in "${FEEDS[@]}"; do
+            slug="${entry%%|*}"
+            url="${entry#*|}"
+            echo "→ $slug ($url)"
+            curl -sSL --fail --max-time 30 -A "$UA" "$url" \
+              -o "feeds/$slug.xml" \
+              || echo "  ✗ fetch failed for $slug (kept previous copy if any)"
+          done
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "noreply@ppmma.org"
+          git add feeds/
+          if git diff --staged --quiet; then
+            echo "No feed changes; nothing to commit."
+          else
+            git commit -m "feeds: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
