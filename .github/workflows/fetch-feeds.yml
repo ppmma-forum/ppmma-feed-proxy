@@ -8,16 +8,12 @@ name: Fetch feeds
 
 on:
   schedule:
-    # Every 30 minutes
     - cron: "*/30 * * * *"
-  workflow_dispatch: {} # manual run from the Actions tab
+  workflow_dispatch: {}
 
 permissions:
   contents: write
 
-# Only one fetch run at a time. If a manual run is triggered while the cron
-# run is still in flight, queue (don't cancel) so we never have two pushes
-# racing each other.
 concurrency:
   group: fetch-feeds
   cancel-in-progress: false
@@ -35,50 +31,78 @@ jobs:
         run: |
           mkdir -p feeds
 
-          # A modern Chrome UA — some publishers serve an empty body to non-
-          # browser user-agents, so we pretend to be a real browser. Accept
-          # headers nudge them toward RSS/XML over an HTML interstitial.
           UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36'
 
-          # Add more feeds by appending lines: SLUG|URL
+          # SLUG|URL pairs. Try multiple section feeds for ST in case the
+          # homepage /feed/ gets aggressively challenged but section feeds
+          # slip through with less protection.
           FEEDS=(
             "seattle-times|https://www.seattletimes.com/feed/"
+            "seattle-times-news|https://www.seattletimes.com/seattle-news/feed/"
+            "seattle-times-food|https://www.seattletimes.com/life/food-drink/feed/"
+            "seattle-times-business|https://www.seattletimes.com/business/feed/"
           )
 
+          # Per-URL fetch with two attempts: first cold, second with cookies
+          # carried over from the first response (some CDNs require a
+          # JS-challenge-then-retry handshake; cookies sometimes shortcut it).
           for entry in "${FEEDS[@]}"; do
             slug="${entry%%|*}"
             url="${entry#*|}"
+            jar="/tmp/${slug}-cookies.txt"
             tmp="$(mktemp)"
             echo "─────────────────────────────────────"
             echo "→ $slug"
             echo "  $url"
+
+            # Attempt 1 — cold
             status=$(curl -sSL --max-time 30 \
               -A "$UA" \
               -H "Accept: application/rss+xml, application/xml;q=0.9, */*;q=0.5" \
               -H "Accept-Language: en-US,en;q=0.9" \
               -H "Cache-Control: no-cache" \
+              -H "Referer: https://www.google.com/" \
+              -c "$jar" \
               -o "$tmp" \
               -w "%{http_code}" \
               "$url" || echo "curl_error")
             size=$(wc -c < "$tmp" 2>/dev/null | tr -d ' ' || echo "0")
             size="${size:-0}"
-            echo "  HTTP $status, $size bytes"
+            echo "  attempt 1: HTTP $status, $size bytes"
+
+            # If empty/non-200, sleep 8s and retry with cookies set
+            if [ "$status" != "200" ] || [ "$size" -lt 200 ]; then
+              echo "  ↳ sleeping 8s and retrying with cookies"
+              sleep 8
+              status=$(curl -sSL --max-time 30 \
+                -A "$UA" \
+                -H "Accept: application/rss+xml, application/xml;q=0.9, */*;q=0.5" \
+                -H "Accept-Language: en-US,en;q=0.9" \
+                -H "Referer: https://www.google.com/" \
+                -b "$jar" \
+                -o "$tmp" \
+                -w "%{http_code}" \
+                "$url" || echo "curl_error")
+              size=$(wc -c < "$tmp" 2>/dev/null | tr -d ' ' || echo "0")
+              size="${size:-0}"
+              echo "  attempt 2: HTTP $status, $size bytes"
+            fi
 
             if [ "$status" = "200" ] && [ "$size" -gt 200 ] 2>/dev/null; then
               mv "$tmp" "feeds/$slug.xml"
               if head -c 200 "feeds/$slug.xml" | grep -q '<'; then
-                echo "  ✓ XML-looking content saved"
+                echo "  ✓ XML-looking content saved → feeds/$slug.xml"
               else
-                echo "  ⚠️ no XML tags in first 200 bytes — saved anyway, will diagnose"
+                echo "  ⚠️ saved, but doesn't look like XML in first 200 bytes"
               fi
             else
-              echo "  ✗ rejected (need HTTP 200 + >200 bytes)"
-              echo "  first 400 chars of response:"
+              echo "  ✗ both attempts rejected; first 400 chars of response:"
               head -c 400 "$tmp" 2>/dev/null | sed 's/^/    /' || true
               echo ""
               rm -f "$tmp"
-              # Keep any previous good copy of feeds/$slug.xml.
             fi
+
+            rm -f "$jar"
           done
 
       - name: Commit & push if changed
@@ -92,9 +116,6 @@ jobs:
           fi
           git commit -m "feeds: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
 
-          # Retry push up to 3x in case another run pushed while we were
-          # working. Pull --rebase keeps our commit on top of any concurrent
-          # change without merging.
           for attempt in 1 2 3; do
             if git push; then
               echo "push succeeded on attempt $attempt"
