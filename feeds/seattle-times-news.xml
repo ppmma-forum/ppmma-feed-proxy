@@ -12,382 +12,383 @@
 	<atom:link href="https://www.seattletimes.com/seattle-news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times Local section covers Seattle, the Eastside, Snohomish County, the Puget Sound region and the Pacific Northwest. Coverage includes breaking news, crime, transportation, politics, education, health and medical, the environment, science and legalized marijuana. Also, columnists Danny Westneat, Jerry Large and Nicole Brodeur, investigative reporting and Times Watchdog coverage.</description>
-	<lastBuildDate>Thu, 28 May 2026 05:44:26 -0700</lastBuildDate>
+	<lastBuildDate>Fri, 29 May 2026 12:48:58 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
         <item>
-            <title>A rare blue micromoon rises this weekend</title>
-                        <link>https://www.seattletimes.com/nation-world/nation/a-rare-blue-micromoon-rises-this-weekend/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/nation-world/nation/a-rare-blue-micromoon-rises-this-weekend/#respond</comments>
-            <pubDate>Thu, 28 May 2026 05:04:15 -0700</pubDate>
+            <title>Patagonia trademark lawsuit triggers backlash from drag queen Pattie Gonia</title>
+                        <link>https://www.seattletimes.com/business/patagonia-trademark-lawsuit-triggers-backlash-from-drag-queen-pattie-gonia/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/business/patagonia-trademark-lawsuit-triggers-backlash-from-drag-queen-pattie-gonia/#respond</comments>
+            <pubDate>Fri, 29 May 2026 12:48:37 -0700</pubDate>
+            <dc:creator><![CDATA[Caroline Petrow-Cohen]]></dc:creator>
+            <category>
+                <![CDATA[ Business, Environment, Nation]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19645860</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05292026_TZR_Patagonia_Store-2022-AP_tzr_123524.jpg?d=1200x630"><br/>Drag queen Pattie Gonia is asking fans for help fighting Patagonia, the popular outdoor apparel and gear company.]]></description>
+                                            </item>
+        <item>
+            <title>White House moves to give political appointees more power over federal grants</title>
+                        <link>https://www.seattletimes.com/nation-world/nation/white-house-moves-to-give-political-appointees-more-power-over-federal-grants/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/nation-world/nation/white-house-moves-to-give-political-appointees-more-power-over-federal-grants/#respond</comments>
+            <pubDate>Fri, 29 May 2026 10:45:18 -0700</pubDate>
+            <dc:creator><![CDATA[ALI SWENSON]]></dc:creator>
+            <category>
+                <![CDATA[ Nation, Nation & World Politics, Science]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/white-house-moves-to-give-political-appointees-more-power-over-federal-grants/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05292026_DJTap-tzrMay29_tzr_105521.jpg?d=1200x630"><br/>The White House is moving to give political appointees more control over federal grants.]]></description>
+                                            </item>
+        <item>
+            <title>Could Seattle become hub for blind soccer? There&#8217;s a push underway</title>
+                        <link>https://www.seattletimes.com/seattle-news/world-cup-seattle/could-seattle-become-hub-for-blind-soccer-theres-a-push-underway/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/world-cup-seattle/could-seattle-become-hub-for-blind-soccer-theres-a-push-underway/#respond</comments>
+            <pubDate>Fri, 29 May 2026 10:00:00 -0700</pubDate>
+            <dc:creator><![CDATA[Kate Shefte]]></dc:creator>
+            <category>
+                <![CDATA[ Other Sports, Sports, World Cup, World Cup Seattle]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19622705</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_tzr2_tzr_141952.jpg?d=1200x630"><br/>With its visibility with the FIFA Men's World Cup coming to town next month, there's a push to make Seattle the Northwest hub for blind soccer. ]]></description>
+                                            </item>
+        <item>
+            <title>Seattle officials introduce bill to help residents battle gun violence</title>
+                        <link>https://www.seattletimes.com/seattle-news/law-justice/seattle-officials-introduce-bill-to-help-residents-battle-gun-violence/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/law-justice/seattle-officials-introduce-bill-to-help-residents-battle-gun-violence/#respond</comments>
+            <pubDate>Fri, 29 May 2026 10:00:00 -0700</pubDate>
+            <dc:creator><![CDATA[Catalina Gaitán]]></dc:creator>
+            <category>
+                <![CDATA[ Law & Justice, Local News, News]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19634139</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05262026_tzr_tzr_162108.jpg?d=1200x630"><br/>Residents blocked three side streets near Aurora Avenue North on Saturday in response to gunfire in the neighborhood.]]></description>
+                                            </item>
+        <item>
+            <title>SEC moves to scrap Biden-era rule on climate risk disclosures</title>
+                        <link>https://www.seattletimes.com/business/sec-moves-to-scrap-biden-era-rule-on-climate-risk-disclosures/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/business/sec-moves-to-scrap-biden-era-rule-on-climate-risk-disclosures/#respond</comments>
+            <pubDate>Fri, 29 May 2026 09:55:12 -0700</pubDate>
+            <dc:creator><![CDATA[Nicola M. White]]></dc:creator>
+            <category>
+                <![CDATA[ Business, Economy, Environment, International Trade, Markets, Nation, Nation & World, World]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19645982</guid>
+            <description><![CDATA[<img src="https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"><br/>The 2024 rules, which never went into effect, faced an onslaught of legal challenges.]]></description>
+                                            </item>
+        <item>
+            <title>&#8216;Gray and drippy&#8217; weather in Seattle, but hottest day of 2026 is ahead</title>
+                        <link>https://www.seattletimes.com/seattle-news/weather/gray-and-drippy-weather-in-seattle-but-hottest-day-of-2026-is-ahead/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/weather/gray-and-drippy-weather-in-seattle-but-hottest-day-of-2026-is-ahead/#respond</comments>
+            <pubDate>Fri, 29 May 2026 08:57:32 -0700</pubDate>
+            <dc:creator><![CDATA[Catalina Gaitán]]></dc:creator>
+            <category>
+                <![CDATA[ Local News, News, Northwest, Weather]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19645588</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05292026_tzr_tzr_083300.jpg?d=1200x630"><br/>Thursday night's thunderstorms brought lightning, hail and fierce winds across parts of Washington. Forecasters say Tuesday could see highs in the 80s and 90s.]]></description>
+                                            </item>
+        <item>
+            <title>Blue Origin investigates rocket explosion as public is warned about possible wreckage washing ashore</title>
+                        <link>https://www.seattletimes.com/business/blue-origin-investigates-rocket-explosion-as-public-is-warned-about-possible-wreckage-washing-ashore/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/business/blue-origin-investigates-rocket-explosion-as-public-is-warned-about-possible-wreckage-washing-ashore/#respond</comments>
+            <pubDate>Fri, 29 May 2026 08:39:19 -0700</pubDate>
             <dc:creator><![CDATA[MARCIA DUNN]]></dc:creator>
             <category>
-                <![CDATA[ Nation, Science]]>
+                <![CDATA[ Boeing & Aerospace, Business, Nation, Science, Technology]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/a-rare-blue-micromoon-rises-this-weekend/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_full-moon-tzr_tzr_054350.jpg?d=1200x630"><br/>Get set for a rare blue micromoon this weekend.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/blue-origin-investigates-rocket-explosion-as-public-is-warned-about-possible-wreckage-washing-ashore/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05292026_bluOriginExplos29-tzr_tzr_074117.jpg?d=1200x630"><br/>Jeff Bezos' Blue Origin is assessing damage to its Florida launch pad after a rocket exploded during a test firing.]]></description>
                                             </item>
         <item>
-            <title>Co-op preschools face uncertainty amid community college funding shift</title>
-                        <link>https://www.seattletimes.com/education-lab/co-op-preschools-face-uncertainty-amid-community-college-funding-shift/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/education-lab/co-op-preschools-face-uncertainty-amid-community-college-funding-shift/#respond</comments>
-            <pubDate>Thu, 28 May 2026 05:00:00 -0700</pubDate>
-            <dc:creator><![CDATA[Claire Withycombe]]></dc:creator>
+            <title>Ballard light rail idea rejected while Sound Transit OKs other lines</title>
+                        <link>https://www.seattletimes.com/seattle-news/transportation/ballard-light-rail-idea-rejected-while-sound-transit-oks-other-lines/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/transportation/ballard-light-rail-idea-rejected-while-sound-transit-oks-other-lines/#respond</comments>
+            <pubDate>Fri, 29 May 2026 06:00:00 -0700</pubDate>
+            <dc:creator><![CDATA[Mike Lindblom]]></dc:creator>
             <category>
-                <![CDATA[ Education, Education Lab, Local News]]>
+                <![CDATA[ Eastside, Local News, Traffic Lab]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19640140</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_tzr_tzr_162646.jpg?d=1200x630"><br/>Parent education programs at community colleges — which often operate co-op preschools — may no longer receive state funding, jeopardizing their future.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19640373</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_tzr_tzr_190553.jpg?d=1200x630"><br/>Last-minute proposals circulated to try to save Ballard service, along with Graham Street and Boeing Access Road stations, despite a $35 billion budget gap.]]></description>
                                             </item>
         <item>
-            <title>Experimental hepatitis B drug might offer &#8216;functional cure&#8217; for a subset of patients</title>
-                        <link>https://www.seattletimes.com/business/experimental-hepatitis-b-drug-might-offer-functional-cure-for-a-subset-of-patients/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/business/experimental-hepatitis-b-drug-might-offer-functional-cure-for-a-subset-of-patients/#respond</comments>
-            <pubDate>Thu, 28 May 2026 01:31:13 -0700</pubDate>
-            <dc:creator><![CDATA[LAURAN NEERGAARD]]></dc:creator>
+            <title>Seattle-area highway, light rail closures crammed in this weekend</title>
+                        <link>https://www.seattletimes.com/seattle-news/transportation/seattle-area-highway-light-rail-closures-crammed-in-this-weekend/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/transportation/seattle-area-highway-light-rail-closures-crammed-in-this-weekend/#respond</comments>
+            <pubDate>Fri, 29 May 2026 06:00:00 -0700</pubDate>
+            <dc:creator><![CDATA[Mike Lindblom]]></dc:creator>
             <category>
-                <![CDATA[ Business, Health]]>
+                <![CDATA[ Eastside, Local News, Puget Sound, Traffic Lab]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/experimental-hepatitis-b-drug-might-offer-functional-cure-for-a-subset-of-patients/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org61d96ea417e20267f5d949f95afcbd2fHepatitis_B_12341.jpg?d=1200x630"><br/>New research suggests a first-of-its-kind drug for hepatitis B may let some patients stop treatment without showing signs of the dangerous liver virus.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19642833</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_Traffic_tzr_114801.jpg?d=1200x630"><br/>Road and transit agencies are striving to complete certain jobs before pausing for the FIFA Men's World Cup from mid-June to mid-July. 
+]]></description>
                                             </item>
         <item>
-            <title>Under President Milei&#8217;s austerity, disabled Argentines risk losing essential services</title>
-                        <link>https://www.seattletimes.com/seattle-news/health/under-president-mileis-austerity-disabled-argentines-risk-losing-essential-services/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/health/under-president-mileis-austerity-disabled-argentines-risk-losing-essential-services/#respond</comments>
-            <pubDate>Thu, 28 May 2026 00:19:10 -0700</pubDate>
-            <dc:creator><![CDATA[ISABEL DEBRE]]></dc:creator>
+            <title>3 astronauts from China return to Earth after nearly 7 months in space, a record for a Chinese crew</title>
+                        <link>https://www.seattletimes.com/nation-world/chinas-shenzhou-21-astronauts-returns-to-earth-after-nearly-7-months-in-space/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/nation-world/chinas-shenzhou-21-astronauts-returns-to-earth-after-nearly-7-months-in-space/#respond</comments>
+            <pubDate>Fri, 29 May 2026 05:58:08 -0700</pubDate>
+            <dc:creator><![CDATA[KANIS LEUNG]]></dc:creator>
             <category>
-                <![CDATA[ Health]]>
+                <![CDATA[ Nation & World, Science]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/under-president-mileis-austerity-disabled-argentines-risk-losing-essential-services/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org6d98fb3cecc91fe4f3e3f8800826275eArgentina_Disability_Cutbacks_27_57.jpg?d=1200x630"><br/>President Javier Milei of Argentina has cut funding for therapy programs for people with disabilities, affecting an estimated 5 million people.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/chinas-shenzhou-21-astronauts-returns-to-earth-after-nearly-7-months-in-space/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org009ac65502477afa9ebce59feb506ffeChina_Space_51166.jpg?d=1200x630"><br/>Three Chinese astronauts have returned to Earth after spending seven months in space.]]></description>
                                             </item>
         <item>
-            <title>Water contaminated by Longview implosion flushed through ditch system</title>
-                        <link>https://www.seattletimes.com/seattle-news/water-contaminated-by-longview-implosion-flushed-through-ditch-system/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/water-contaminated-by-longview-implosion-flushed-through-ditch-system/#respond</comments>
-            <pubDate>Wed, 27 May 2026 22:15:37 -0700</pubDate>
-            <dc:creator><![CDATA[Paige Cornwell]]></dc:creator>
+            <title>Despite scrutiny, special education money flows to for-profit residential treatment centers</title>
+                        <link>https://www.seattletimes.com/business/despite-scrutiny-special-education-money-flows-to-for-profit-residential-treatment-centers/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/business/despite-scrutiny-special-education-money-flows-to-for-profit-residential-treatment-centers/#respond</comments>
+            <pubDate>Fri, 29 May 2026 03:32:09 -0700</pubDate>
+            <dc:creator><![CDATA[SALLY HO]]></dc:creator>
             <category>
-                <![CDATA[ Environment, Local News, Northwest]]>
+                <![CDATA[ Business, Nation, Nation & World, Northwest]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19641509</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_flushing_220328.jpg?d=1200x630"><br/>Water contaminated by the release of white liquor from the implosion at the Nippon Dynawave Packaging facility in Longview is being flushed through the city’s ditch system to dilute it to levels safe for discharge into the Columbia River, officials said Wednesday evening. The water will be drawn away from residential areas and the city’s [&hellip;]]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/despite-scrutiny-special-education-money-flows-to-for-profit-residential-treatment-centers/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.orga53046f4b65cf710c8f1191119b5805c2_02.jpg?d=1200x630"><br/>Many for-profit residential facilities in the so-called troubled teen industry nationwide that claim to treat severe mental and behavioral health issues in children and teens are deftly tapping into taxpayer money meant for students with disabilities.]]></description>
                                             </item>
         <item>
-            <title>The Minneapolis immigration crackdown ended months ago. For these little kids, trauma remains</title>
-                        <link>https://www.seattletimes.com/seattle-news/health/the-minneapolis-immigration-crackdown-ended-months-ago-for-these-little-kids-trauma-remains/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/health/the-minneapolis-immigration-crackdown-ended-months-ago-for-these-little-kids-trauma-remains/#respond</comments>
-            <pubDate>Wed, 27 May 2026 21:09:11 -0700</pubDate>
-            <dc:creator><![CDATA[MORIAH BALINGIT of The Associated Press and ANDY STEINER of MinnPost]]></dc:creator>
+            <title>Takeaways from AP report on how the war in Gaza is driving a rise in early marriage</title>
+                        <link>https://www.seattletimes.com/seattle-news/health/takeaways-from-ap-report-on-how-the-war-in-gaza-is-driving-a-rise-in-early-marriage/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/health/takeaways-from-ap-report-on-how-the-war-in-gaza-is-driving-a-rise-in-early-marriage/#respond</comments>
+            <pubDate>Fri, 29 May 2026 03:19:08 -0700</pubDate>
+            <dc:creator><![CDATA[Toqa Ezzidin and WAFAA SHURAFA]]></dc:creator>
+            <category>
+                <![CDATA[ Health, Nation & World]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/takeaways-from-ap-report-on-how-the-war-in-gaza-is-driving-a-rise-in-early-marriage/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org52dee97ef11180ca5f153d359139249eML-Gaza-Early-Marriage-1.jpg?d=1200x630"><br/>Israel’s military campaign and the mass displacement in Gaza have fueled an increase in early marriages.]]></description>
+                                            </item>
+        <item>
+            <title>War and displacement in Gaza are fueling a rise in early marriage</title>
+                        <link>https://www.seattletimes.com/seattle-news/health/destitute-from-war-a-mother-in-gaza-made-a-fateful-choice-and-gave-her-young-daughters-in-marriage/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/health/destitute-from-war-a-mother-in-gaza-made-a-fateful-choice-and-gave-her-young-daughters-in-marriage/#respond</comments>
+            <pubDate>Fri, 29 May 2026 03:04:06 -0700</pubDate>
+            <dc:creator><![CDATA[Toqa Ezzidin and WAFAA SHURAFA]]></dc:creator>
+            <category>
+                <![CDATA[ Health, Nation & World]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/destitute-from-war-a-mother-in-gaza-made-a-fateful-choice-and-gave-her-young-daughters-in-marriage/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org52dee97ef11180ca5f153d359139249eML-Gaza-Early-Marriage.jpg?d=1200x630"><br/>The war in Gaza and the mass displacement of Palestinians have helped fuel an increase in marriages of young girls.]]></description>
+                                            </item>
+        <item>
+            <title>Indonesians mark 20 years since mud volcano eruption swallowed up entire communities in East Java</title>
+                        <link>https://www.seattletimes.com/business/residents-mark-20th-anniversary-of-indonesia-mud-volcano-eruption-that-swallowed-up-entire-villages/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/business/residents-mark-20th-anniversary-of-indonesia-mud-volcano-eruption-that-swallowed-up-entire-villages/#respond</comments>
+            <pubDate>Fri, 29 May 2026 02:43:17 -0700</pubDate>
+            <dc:creator><![CDATA[TRISNADI and EDNA TARIGAN]]></dc:creator>
+            <category>
+                <![CDATA[ Business, Nation & World, Science]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/residents-mark-20th-anniversary-of-indonesia-mud-volcano-eruption-that-swallowed-up-entire-villages/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org3aa8c6eb89722d85926aedeb59f92ea9Indonesia_Mud_Volcano_5971_.jpg?d=1200x630"><br/>Residents in the East Java province of Indonesia have scattered flowers and paid their respects and prayed at the edge of a mud lake.]]></description>
+                                            </item>
+        <item>
+            <title>WHO chief lands in Congo, saying Ebola outbreak &#8216;can be stopped&#8217;</title>
+                        <link>https://www.seattletimes.com/seattle-news/health/who-chief-lands-in-congo-to-address-rare-ebola-outbreak-amid-distrust-and-insecurity/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/health/who-chief-lands-in-congo-to-address-rare-ebola-outbreak-amid-distrust-and-insecurity/#respond</comments>
+            <pubDate>Fri, 29 May 2026 02:08:04 -0700</pubDate>
+            <dc:creator><![CDATA[JEAN-YVES KAMALE, JUSTIN KABUMBA and MARK BANCHEREAU]]></dc:creator>
+            <category>
+                <![CDATA[ Health, Nation & World]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/who-chief-lands-in-congo-to-address-rare-ebola-outbreak-amid-distrust-and-insecurity/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org31d5e72a16d3402e065354dc9488434eCongo_Ebola_WHO_8833_.jpg?d=1200x630"><br/>The head of the World Health Organization has arrived in Congo's capital, Kinshasa, to support efforts against an Ebola outbreak.]]></description>
+                                            </item>
+        <item>
+            <title>Kenya court suspends US plan for Ebola quarantine facility for Americans</title>
+                        <link>https://www.seattletimes.com/seattle-news/health/kenya-court-suspends-us-plan-for-ebola-quarantine-facility-for-americans/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/health/kenya-court-suspends-us-plan-for-ebola-quarantine-facility-for-americans/#respond</comments>
+            <pubDate>Fri, 29 May 2026 00:37:08 -0700</pubDate>
+            <dc:creator><![CDATA[EVELYNE MUSAMBI]]></dc:creator>
             <category>
                 <![CDATA[ Health, Nation, Nation & World]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/the-minneapolis-immigration-crackdown-ended-months-ago-for-these-little-kids-trauma-remains/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org3842a271f4ec16e571caff8f0b0051e2Education_Immigration_Mental_Health_68671.jpg?d=1200x630"><br/>A therapy dog named Sage is helping children at Valley View Elementary outside Minneapolis cope with trauma from the immigration crackdown.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/kenya-court-suspends-us-plan-for-ebola-quarantine-facility-for-americans/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.orgf0c7ed6dc3fe339b9b974fd12782ca8dKenya_WHO_Congo_Ebola_1_922.jpg?d=1200x630"><br/>A court in Kenya has suspended a U.S. plan to establish a quarantine facility for Americans exposed to a rare Ebola virus in northeastern Congo.]]></description>
                                             </item>
         <item>
-            <title>Think it&#8217;s hot now? The next five years will smash records, UN says</title>
-                        <link>https://www.seattletimes.com/seattle-news/science/think-its-hot-now-the-next-five-years-will-smash-records-un-says/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/science/think-its-hot-now-the-next-five-years-will-smash-records-un-says/#respond</comments>
-            <pubDate>Wed, 27 May 2026 21:07:04 -0700</pubDate>
-            <dc:creator><![CDATA[SETH BORENSTEIN]]></dc:creator>
+            <title>Canadian man pleads guilty to selling lethal substances to people who killed themselves</title>
+                        <link>https://www.seattletimes.com/seattle-news/health/canadian-man-expected-to-plead-guilty-to-selling-lethal-substances-to-people-who-killed-themselves/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/health/canadian-man-expected-to-plead-guilty-to-selling-lethal-substances-to-people-who-killed-themselves/#respond</comments>
+            <pubDate>Thu, 28 May 2026 22:05:07 -0700</pubDate>
+            <dc:creator><![CDATA[ROB GILLIES]]></dc:creator>
             <category>
-                <![CDATA[ Science]]>
+                <![CDATA[ Health, Nation & World]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/think-its-hot-now-the-next-five-years-will-smash-records-un-says/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org53d79525a06f09d9ace45a141dbebb01Climate_Next_Five_Years__7567.jpg?d=1200x630"><br/>A new report from the United Nations weather agency gives a three-out-of-four chance that the next five years will average more than 1.5 degrees Celsius above pre-industrial temperatures.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/canadian-man-expected-to-plead-guilty-to-selling-lethal-substances-to-people-who-killed-themselves/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org4a116222a2ecf0656342eb34735f0178Canada_Lethal_Substances_12_9.jpg?d=1200x630"><br/>A Canadian man accused of running an online operation selling lethal products in more than 40 countries has pleaded guilty to 14 counts of counseling or aiding suicide.]]></description>
                                             </item>
         <item>
-            <title>About 8% of the country lacked health insurance in 2025, new data shows. That could rise next year</title>
-                        <link>https://www.seattletimes.com/business/about-8-of-the-country-lacked-health-insurance-in-2025-new-data-shows-that-could-rise-next-year/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/business/about-8-of-the-country-lacked-health-insurance-in-2025-new-data-shows-that-could-rise-next-year/#respond</comments>
-            <pubDate>Wed, 27 May 2026 21:03:16 -0700</pubDate>
-            <dc:creator><![CDATA[MIKE STOBBE and ALI SWENSON]]></dc:creator>
+            <title>Blue Origin rocket explodes on the launch pad during an engine-firing test</title>
+                        <link>https://www.seattletimes.com/business/blue-origin-rocket-explodes-on-the-launch-pad-during-an-engine-firing-test/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/business/blue-origin-rocket-explodes-on-the-launch-pad-during-an-engine-firing-test/#respond</comments>
+            <pubDate>Thu, 28 May 2026 19:10:06 -0700</pubDate>
+            <dc:creator><![CDATA[MARCIA DUNN]]></dc:creator>
             <category>
-                <![CDATA[ Business, Health, Nation]]>
+                <![CDATA[ Boeing & Aerospace, Business, Science, Technology]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/about-8-of-the-country-lacked-health-insurance-in-2025-new-data-shows-that-could-rise-next-year/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org40253e8ebb89cf10fa32e4778b7c2722Uninsured_Americans_47753.jpg?d=1200x630"><br/>The proportion of Americans without health insurance held steady at around 8% of the population in 2025, according to new findings from the Centers for Disease Control and Prevention.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/blue-origin-rocket-explodes-on-the-launch-pad-during-an-engine-firing-test/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05292026_bluOriginExplos29-tzr_tzr_074117.jpg?d=1200x630"><br/>A rocket belonging to Jeff Bezos' Blue Origin has exploded during a test at the launch pad.]]></description>
                                             </item>
         <item>
-            <title>Columbia River tainted by Longview implosion; missing workers feared dead</title>
-                        <link>https://www.seattletimes.com/seattle-news/columbia-river-tainted-by-longview-implosion-missing-workers-feared-dead/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/columbia-river-tainted-by-longview-implosion-missing-workers-feared-dead/#respond</comments>
-            <pubDate>Wed, 27 May 2026 19:58:30 -0700</pubDate>
-            <dc:creator><![CDATA[Joseph O’Sullivan and Elise Takahama]]></dc:creator>
+            <title>6 of 9 Nippon employees recovered from implosion site, bringing confirmed death toll to 8</title>
+                        <link>https://www.seattletimes.com/seattle-news/6-of-9-nippon-employees-recovered-from-implosion-site-bringing-confirmed-death-toll-to-8/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/6-of-9-nippon-employees-recovered-from-implosion-site-bringing-confirmed-death-toll-to-8/#respond</comments>
+            <pubDate>Thu, 28 May 2026 19:09:24 -0700</pubDate>
+            <dc:creator><![CDATA[Paige Cornwell and Shauna Sowersby]]></dc:creator>
             <category>
-                <![CDATA[ Environment, Law & Justice, Local News, Nation, Northwest]]>
+                <![CDATA[ Environment, Local News, Local Politics, Northwest]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19640762</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_tzr_tzr_194751.jpg?d=1200x630"><br/>As state and federal officials figure out the extent of contamination, they continue to search for the bodies of nine workers who are unaccounted for.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19641085</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_tzr_tzr_183016.jpg?d=1200x630"><br/>The bodies of three employees at Nippon Dynawave Packaging are still at the site of the implosion that killed 11 people. ]]></description>
                                             </item>
         <item>
-            <title>In Utah, measles sickens babies and others who can’t be vaccinated</title>
-                        <link>https://www.seattletimes.com/nation-world/nation/in-utah-measles-sickens-babies-and-others-who-cant-be-vaccinated/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/nation-world/nation/in-utah-measles-sickens-babies-and-others-who-cant-be-vaccinated/#respond</comments>
-            <pubDate>Wed, 27 May 2026 19:11:21 -0700</pubDate>
-            <dc:creator><![CDATA[Teddy Rosenbluth]]></dc:creator>
+            <title>What to know about Manhattanhenge, NYC&#8217;s sunset spectacle</title>
+                        <link>https://www.seattletimes.com/nation-world/nation/what-to-know-about-manhattanhenge-nycs-sunset-spectacle/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/nation-world/nation/what-to-know-about-manhattanhenge-nycs-sunset-spectacle/#respond</comments>
+            <pubDate>Thu, 28 May 2026 18:27:13 -0700</pubDate>
+            <dc:creator><![CDATA[The Associated Press]]></dc:creator>
             <category>
-                <![CDATA[ Health, Nation]]>
+                <![CDATA[ Nation, Oddities, Science]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19640668</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_measles-tzr_tzr_190718.jpg?d=1200x630"><br/>Many of those who can’t be vaccinated, including pregnant women and immunocompromised people, are also at high risk of serious complications.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/what-to-know-about-manhattanhenge-nycs-sunset-spectacle/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05292026_manhattanhenge_tzr_061513.jpg?d=1200x630"><br/>New York City residents and visitors are treated to a phenomenon twice a year known as Manhattanhenge, when the setting sun aligns with the Manhattan street grid.]]></description>
                                             </item>
         <item>
-            <title>Seattle council member offers drastic proposal to save Ballard light rail</title>
-                        <link>https://www.seattletimes.com/seattle-news/transportation/seattle-council-member-offers-drastic-proposal-to-save-ballard-light-rail/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/transportation/seattle-council-member-offers-drastic-proposal-to-save-ballard-light-rail/#respond</comments>
-            <pubDate>Wed, 27 May 2026 18:06:28 -0700</pubDate>
-            <dc:creator><![CDATA[Mike Lindblom]]></dc:creator>
+            <title>After Longview implosion, doctors explain severity of chemical burns</title>
+                        <link>https://www.seattletimes.com/seattle-news/health/after-longview-implosion-doctors-explain-severity-of-chemical-burns/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/health/after-longview-implosion-doctors-explain-severity-of-chemical-burns/#respond</comments>
+            <pubDate>Thu, 28 May 2026 18:24:01 -0700</pubDate>
+            <dc:creator><![CDATA[Elise Takahama]]></dc:creator>
             <category>
-                <![CDATA[ Eastside, Local News, Local Politics, Puget Sound, Traffic Lab]]>
+                <![CDATA[ Health, Local News, Northwest, Puget Sound]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19639500</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_tzr-ballard_tzr_172319.jpg?d=1200x630"><br/>The maneuver comes ahead of a Sound Transit vote to pick affordable and unaffordable stations for the next quarter century, amid a $35 billion funding gap.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19643883</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_tzr_tzr_173721.jpg?d=1200x630"><br/>The implosion exposed people to white liquor, a caustic chemical used to break down wood into pulp that is similar to a "really concentrated bleach," one doctor said.]]></description>
                                             </item>
         <item>
-            <title>West Coast chemical emergencies raise questions about the safety of massive industrial tanks</title>
-                        <link>https://www.seattletimes.com/seattle-news/wa-california-chemical-emergencies-raise-questions-about-the-safety-of-massive-industrial-tanks/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/wa-california-chemical-emergencies-raise-questions-about-the-safety-of-massive-industrial-tanks/#respond</comments>
-            <pubDate>Wed, 27 May 2026 17:53:13 -0700</pubDate>
-            <dc:creator><![CDATA[MARTHA BELLISLE and JOSH FUNK]]></dc:creator>
-            <category>
-                <![CDATA[ Business, Local News]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19640792</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_plantimplosion-tzr_tzr_173237.jpg?d=1200x630"><br/>There are millions of chemical tanks around the U.S., and experts say it is exceedingly rare for them to fail.]]></description>
-                                            </item>
-        <item>
-            <title>$21M racial discrimination verdict against Seattle Children&#8217;s stands</title>
-                        <link>https://www.seattletimes.com/seattle-news/21m-racial-discrimination-verdict-against-seattle-childrens-stands/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/21m-racial-discrimination-verdict-against-seattle-childrens-stands/#respond</comments>
-            <pubDate>Wed, 27 May 2026 16:16:10 -0700</pubDate>
-            <dc:creator><![CDATA[Alexandra Yoon-Hendricks and Elise Takahama]]></dc:creator>
-            <category>
-                <![CDATA[ Health, Local News]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19639943</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_tzr_tzr_143823.jpg?d=1200x630"><br/>The Washington Court of Appeals ruling favors Dr. Benjamin Danielson, who sued Seattle Children’s in 2023 for creating a hostile work environment based on race.]]></description>
-                                            </item>
-        <item>
-            <title>Mayor Katie Wilson&#8217;s leader of shelter expansion plan leaves office</title>
-                        <link>https://www.seattletimes.com/seattle-news/homeless/mayor-katie-wilsons-leader-of-shelter-expansion-plan-leaves-office/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/homeless/mayor-katie-wilsons-leader-of-shelter-expansion-plan-leaves-office/#respond</comments>
-            <pubDate>Wed, 27 May 2026 15:06:25 -0700</pubDate>
-            <dc:creator><![CDATA[David Kroman]]></dc:creator>
-            <category>
-                <![CDATA[ Local News, Local Politics, Northwest, Project Homeless, Puget Sound]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19639320</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_tzr_tzr_140430.jpg?d=1200x630"><br/>The move comes weeks after Wilson replaced her chief of staff and in the wake of a deteriorating relationship between her office and the Seattle City Council.]]></description>
-                                            </item>
-        <item>
-            <title>Columbia River contaminated by Longview mill chemical implosion, officials say</title>
-                        <link>https://www.seattletimes.com/seattle-news/columbia-river-contaminated-by-longview-mill-chemical-implosion-officials-say/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/columbia-river-contaminated-by-longview-mill-chemical-implosion-officials-say/#respond</comments>
-            <pubDate>Wed, 27 May 2026 14:59:31 -0700</pubDate>
-            <dc:creator><![CDATA[Kai Uyehara]]></dc:creator>
+            <title>Details emerge of complex cleanup effort after deadly Longview tank implosion</title>
+                        <link>https://www.seattletimes.com/seattle-news/environment/details-emerge-of-complex-cleanup-effort-after-deadly-longview-tank-implosion/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/environment/details-emerge-of-complex-cleanup-effort-after-deadly-longview-tank-implosion/#respond</comments>
+            <pubDate>Thu, 28 May 2026 17:53:18 -0700</pubDate>
+            <dc:creator><![CDATA[Isabella Breda]]></dc:creator>
             <category>
                 <![CDATA[ Environment, Local News]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19640244</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_tzr_tzr_141830.jpg?d=1200x630"><br/>Contamination entered the Columbia River on Tuesday after an implosion at a Longview pulp and paper mill that morning, Chief Scott Goldstein of Cowlitz 2 Fire and Rescue said.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19643088</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_tzr_tzr_173619.jpg?d=1200x630"><br/>The implosion released hundreds of thousands of gallons of a caustic, high pH liquid into a drainage system. The cleanup is ongoing and complex.]]></description>
                                             </item>
         <item>
-            <title>Ferguson vows to veto any expansion of WA &#8216;millionaires tax&#8217;</title>
-                        <link>https://www.seattletimes.com/seattle-news/politics/ferguson-vows-to-veto-any-expansion-of-wa-millionaires-tax/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/politics/ferguson-vows-to-veto-any-expansion-of-wa-millionaires-tax/#respond</comments>
-            <pubDate>Wed, 27 May 2026 14:40:28 -0700</pubDate>
-            <dc:creator><![CDATA[Jim Brunner]]></dc:creator>
-            <category>
-                <![CDATA[ Business, Economy, Local News, Local Politics, Northwest]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19639854</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_tzr_tzr_142033.jpg?d=1200x630"><br/>As an initiative to repeal the 'millionaires tax' gains steam, Gov. Bob Ferguson is trying to reassure voters the tax won't get expanded to apply to them.]]></description>
-                                            </item>
-        <item>
-            <title>SpaceX&#8217;s Starship rockets are grounded pending investigation after test flight</title>
-                        <link>https://www.seattletimes.com/business/spacexs-starship-rockets-are-grounded-pending-investigation-after-test-flight/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/business/spacexs-starship-rockets-are-grounded-pending-investigation-after-test-flight/#respond</comments>
-            <pubDate>Wed, 27 May 2026 13:49:39 -0700</pubDate>
-            <dc:creator><![CDATA[MARCIA DUNN]]></dc:creator>
-            <category>
-                <![CDATA[ Boeing & Aerospace, Business, Nation, Science]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/spacexs-starship-rockets-are-grounded-pending-investigation-after-test-flight/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_spacex-pause-tzr_tzr_141007.jpg?d=1200x630"><br/>SpaceX Starship launches are on hold pending an investigation into last week's test flight.]]></description>
-                                            </item>
-        <item>
-            <title>Former Attorney General Pam Bondi divulges thyroid cancer diagnosis</title>
-                        <link>https://www.seattletimes.com/nation-world/former-attorney-general-pam-bondi-divulges-thyroid-cancer-diagnosis/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/nation-world/former-attorney-general-pam-bondi-divulges-thyroid-cancer-diagnosis/#respond</comments>
-            <pubDate>Wed, 27 May 2026 13:05:09 -0700</pubDate>
-            <dc:creator><![CDATA[Theresa Braine]]></dc:creator>
-            <category>
-                <![CDATA[ Health, Nation, Nation & World, Nation & World Politics]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19639855</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/04/04022026_bondi-tzr_tzr_175947.jpg?d=1200x630"><br/>Former U.S. Attorney General Pam Bondi She has been undergoing treatment and recovering from surgery she underwent a few weeks ago.]]></description>
-                                            </item>
-        <item>
-            <title>1 of 2 confirmed killed in Longview industrial implosion identified</title>
-                        <link>https://www.seattletimes.com/seattle-news/one-of-two-killed-in-longview-industrial-explosion-identified/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/one-of-two-killed-in-longview-industrial-explosion-identified/#respond</comments>
-            <pubDate>Wed, 27 May 2026 12:17:02 -0700</pubDate>
-            <dc:creator><![CDATA[Paige Cornwell and Kai Uyehara]]></dc:creator>
-            <category>
-                <![CDATA[ Local News, Northwest]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19639482</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_tzr_tzr_121116.jpg?d=1200x630"><br/>Family and friends identify Gilbert Bernal as one of the workers killed in Longview industrial implosion.]]></description>
-                                            </item>
-        <item>
-            <title>Photos from Tuesday&#8217;s deadly paper mill implosion in Longview</title>
-                        <link>https://www.seattletimes.com/seattle-news/photos-from-tuesdays-paper-mill-implosion-in-longview/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/photos-from-tuesdays-paper-mill-implosion-in-longview/#respond</comments>
-            <pubDate>Wed, 27 May 2026 11:51:45 -0700</pubDate>
+            <title>Photos: Thursday scenes from Longview mill implosion</title>
+                        <link>https://www.seattletimes.com/seattle-news/photos-thursday-scenes-from-longview-mill-implosion/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/photos-thursday-scenes-from-longview-mill-implosion/#respond</comments>
+            <pubDate>Thu, 28 May 2026 15:39:17 -0700</pubDate>
             <dc:creator><![CDATA[Karen Ducey]]></dc:creator>
             <category>
                 <![CDATA[ Local News]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19639689</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_tzr_tzr_182901.jpg?d=1200x630"><br/>]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19644013</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_tzr_tzr_153851.jpg?d=1200x630"><br/>]]></description>
                                             </item>
         <item>
-            <title>Introducing Argus, a robot with 20 legs and eyes built to move and see in any direction instantly</title>
-                        <link>https://www.seattletimes.com/nation-world/nation/introducing-argus-a-robot-with-20-legs-and-eyes-built-to-move-and-see-in-any-direction-instantly/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/nation-world/nation/introducing-argus-a-robot-with-20-legs-and-eyes-built-to-move-and-see-in-any-direction-instantly/#respond</comments>
-            <pubDate>Wed, 27 May 2026 11:25:42 -0700</pubDate>
-            <dc:creator><![CDATA[ALLEN G. BREED and HOLLY RAMER]]></dc:creator>
+            <title>Conditions of 4 climbers who fell on Mount McKinley unknown as rescuers try to reach them</title>
+                        <link>https://www.seattletimes.com/nation-world/nation/conditions-of-4-climbers-who-fell-on-mount-mckinley-unknown-as-rescuers-try-to-reach-them/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/nation-world/nation/conditions-of-4-climbers-who-fell-on-mount-mckinley-unknown-as-rescuers-try-to-reach-them/#respond</comments>
+            <pubDate>Thu, 28 May 2026 15:39:07 -0700</pubDate>
+            <dc:creator><![CDATA[BECKY BOHRER]]></dc:creator>
             <category>
-                <![CDATA[ Nation, Science, Technology]]>
+                <![CDATA[ Nation, Northwest, Outdoors]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/introducing-argus-a-robot-with-20-legs-and-eyes-built-to-move-and-see-in-any-direction-instantly/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org6ba9651ba6553ebc4405ffc07a26afedUS_Spherical_Robot_3613_.jpg?d=1200x630"><br/>Robots that look like dogs or people try to replicate symmetrical shapes found in nature.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/conditions-of-4-climbers-who-fell-on-mount-mckinley-unknown-as-rescuers-try-to-reach-them/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_denali-tzr_tzr_155706.jpg?d=1200x630"><br/>Rescuers are trying to reach four climbers who fell on Alaska’s Mount McKinley, North America’s tallest peak, the National Park Service said Thursday.]]></description>
                                             </item>
         <item>
-            <title>9 missing after Washington paper mill tank rupture and officials say there&#8217;s no hope of survivors</title>
-                        <link>https://www.seattletimes.com/business/9-missing-after-washington-paper-mill-tank-implosion-and-officials-say-theres-no-hope-of-survivors/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/business/9-missing-after-washington-paper-mill-tank-implosion-and-officials-say-theres-no-hope-of-survivors/#respond</comments>
-            <pubDate>Wed, 27 May 2026 10:54:42 -0700</pubDate>
-            <dc:creator><![CDATA[CLAIRE RUSH]]></dc:creator>
+            <title>Trump admin sues over WA denying DHS, ICE undercover license plates</title>
+                        <link>https://www.seattletimes.com/seattle-news/trump-admin-sues-over-wa-denying-dhs-ice-undercover-license-plates/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/trump-admin-sues-over-wa-denying-dhs-ice-undercover-license-plates/#respond</comments>
+            <pubDate>Thu, 28 May 2026 14:08:20 -0700</pubDate>
+            <dc:creator><![CDATA[Alexandra Yoon-Hendricks]]></dc:creator>
             <category>
-                <![CDATA[ Business, Local News, Nation, Northwest]]>
+                <![CDATA[ Law & Justice, Local News, Local Politics, Nation & World Politics]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19639010</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org317b2491baf6e44c0a5f66ef98af31b5APTOPIX_Washington_State_Chemical_Plant_Failure_35125.jpg?d=1200x630"><br/>Crews are resuming the search for nine people presumed killed at a Washington state paper mill where a chemical tank ruptured.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19643207</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_tzr_tzr_134841.jpg?d=1200x630"><br/>The Trump administration sued Washington on Wednesday over its practice of denying undercover license plates to U.S. Department of Homeland Security agents.]]></description>
                                             </item>
         <item>
-            <title>Longview paper mill implosion leaves at least 2 dead, 9 missing</title>
-                        <link>https://www.seattletimes.com/seattle-news/live-updates-from-deadly-paper-mill-implosion-in-longview/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/live-updates-from-deadly-paper-mill-implosion-in-longview/#respond</comments>
-            <pubDate>Wed, 27 May 2026 10:26:54 -0700</pubDate>
+            <title>Longview implosion: Bodies of 6 of 9 missing victims recovered</title>
+                        <link>https://www.seattletimes.com/seattle-news/longview-mill-implosion-the-latest-on-victims-investigation/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/longview-mill-implosion-the-latest-on-victims-investigation/#respond</comments>
+            <pubDate>Thu, 28 May 2026 13:45:22 -0700</pubDate>
             <dc:creator><![CDATA[Seattle Times staff]]></dc:creator>
             <category>
                 <![CDATA[ Environment, Local News, Northwest]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19639231</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_tzr_tzr_135254.jpg?d=1200x630"><br/>Two people are dead and nine are missing and presumed dead after a chemical implosion at a pulp and paper mill in Longview. ]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19643538</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_tzr_tzr_154354.jpg?d=1200x630"><br/>The bodies of six of the nine employees who were unaccounted for after the Longview mill implosion have been recovered, Longview Fire Chief Brad Hannig said.]]></description>
                                             </item>
         <item>
-            <title>Puerto Rico governor announces emergency to fight worsening coastal erosion</title>
-                        <link>https://www.seattletimes.com/seattle-news/science/puerto-rico-governor-announces-emergency-to-fight-worsening-coastal-erosion/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/science/puerto-rico-governor-announces-emergency-to-fight-worsening-coastal-erosion/#respond</comments>
-            <pubDate>Wed, 27 May 2026 09:25:36 -0700</pubDate>
-            <dc:creator><![CDATA[The Associated Press]]></dc:creator>
+            <title>No one in courtroom to speak on behalf of victims of man who killed 4 sleeping homeless men</title>
+                        <link>https://www.seattletimes.com/seattle-news/health/man-sentenced-to-40-years-to-life-in-prison-for-killing-4-people-sleeping-on-new-york-streets/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/health/man-sentenced-to-40-years-to-life-in-prison-for-killing-4-people-sleeping-on-new-york-streets/#respond</comments>
+            <pubDate>Thu, 28 May 2026 12:40:09 -0700</pubDate>
+            <dc:creator><![CDATA[MICHAEL R. SISAK]]></dc:creator>
             <category>
-                <![CDATA[ Science]]>
+                <![CDATA[ Health, Nation]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/puerto-rico-governor-announces-emergency-to-fight-worsening-coastal-erosion/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.orga685320030b680630dc09114d2c1c07bPuerto_Rico_Gov._Jenniffer_Gonzalez_79384.jpg?d=1200x630"><br/>Puerto Rico’s governor has announced a state of emergency following critical coastal erosion along the U.S. territory’s north coast.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/man-sentenced-to-40-years-to-life-in-prison-for-killing-4-people-sleeping-on-new-york-streets/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.orgbf14d4347ad831a3d9ad7a610f34bf67Homeless_Killings_New_York_26811.jpg?d=1200x630"><br/>A man convicted of bludgeoning four men to death with a metal bar as they slept on the New York City streets has been sentenced to 40 years to life in prison.]]></description>
                                             </item>
         <item>
-            <title>A warmer world creates bigger and more damaging hailstones, study says</title>
-                        <link>https://www.seattletimes.com/nation-world/nation/a-warmer-world-creates-bigger-and-more-damaging-hailstones-study-says/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/nation-world/nation/a-warmer-world-creates-bigger-and-more-damaging-hailstones-study-says/#respond</comments>
-            <pubDate>Wed, 27 May 2026 08:01:15 -0700</pubDate>
-            <dc:creator><![CDATA[SETH BORENSTEIN]]></dc:creator>
+            <title>Grieving family drops lawsuit over Gas Works Park death</title>
+                        <link>https://www.seattletimes.com/seattle-news/grieving-family-drops-lawsuit-over-gas-works-park-death/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/grieving-family-drops-lawsuit-over-gas-works-park-death/#respond</comments>
+            <pubDate>Thu, 28 May 2026 11:32:28 -0700</pubDate>
+            <dc:creator><![CDATA[Mike Carter]]></dc:creator>
             <category>
-                <![CDATA[ Climate Lab, Nation, Weather]]>
+                <![CDATA[ Local News]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/a-warmer-world-creates-bigger-and-more-damaging-hailstones-study-says/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_hail_tzr_084138.jpg?d=1200x630"><br/>A new study says the size and damage from hailstones will increase in a warming world.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19642898</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_tzr_tzr_104343.jpg?d=1200x630"><br/>The lawsuit, filed by the family of Mattheis Johnson in October, was withdrawn after the city removed climbable surfaces from the site.]]></description>
                                             </item>
         <item>
-            <title>What we know about the fatal Longview chemical implosion</title>
-                        <link>https://www.seattletimes.com/seattle-news/what-we-know-about-the-fatal-longview-chemical-implosion/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/what-we-know-about-the-fatal-longview-chemical-implosion/#respond</comments>
-            <pubDate>Wed, 27 May 2026 07:13:10 -0700</pubDate>
-            <dc:creator><![CDATA[Kai Uyehara]]></dc:creator>
+            <title>Pigeons may be navigating with their liver, study suggests</title>
+                        <link>https://www.seattletimes.com/nation-world/pigeons-may-be-navigating-with-their-liver-study-suggests/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/nation-world/pigeons-may-be-navigating-with-their-liver-study-suggests/#respond</comments>
+            <pubDate>Thu, 28 May 2026 11:02:33 -0700</pubDate>
+            <dc:creator><![CDATA[Adithi Ramakrishnan]]></dc:creator>
             <category>
-                <![CDATA[ Business, Environment, Health, Local Business, Local News, Northwest]]>
+                <![CDATA[ Nation & World, Science]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19638703</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_Longview_tzr_080821.jpg?d=1200x630"><br/>One person was killed, nine were injured and nine others remain missing a day after a major implosion at a pulp and paper mill. Here's what we know so far.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/pigeons-may-be-navigating-with-their-liver-study-suggests/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.orgcdf06cf03a589f472f4ba2d649a8b897Pigeon_Navigation_43396.jpg?d=1200x630"><br/>A study details a surprising new way into how pigeons find their way home.]]></description>
                                             </item>
         <item>
-            <title>Zuckerberg&#8217;s superyacht lands in Seattle as Meta announces big local layoff</title>
-                        <link>https://www.seattletimes.com/business/zuckerbergs-superyacht-arrives-in-seattle-the-same-day-meta-laid-off-1400-local-employees/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/business/zuckerbergs-superyacht-arrives-in-seattle-the-same-day-meta-laid-off-1400-local-employees/#respond</comments>
-            <pubDate>Wed, 27 May 2026 07:11:49 -0700</pubDate>
-            <dc:creator><![CDATA[Alexis Weisend]]></dc:creator>
+            <title>Virgin Galactic-Flown Mission to Study Menstruation in Space</title>
+                        <link>https://www.seattletimes.com/business/virgin-galactic-flown-mission-to-study-menstruation-in-space/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/business/virgin-galactic-flown-mission-to-study-menstruation-in-space/#respond</comments>
+            <pubDate>Thu, 28 May 2026 08:36:51 -0700</pubDate>
+            <dc:creator><![CDATA[Sana Pashankar]]></dc:creator>
             <category>
-                <![CDATA[ Business, Local Business, Local News, Northwest, Technology]]>
+                <![CDATA[ Boeing & Aerospace, Business, Markets, Nation, Nation & World, Science, World]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19638708</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05272026_tzr_tzr_110911.jpg?d=1200x630"><br/>Mark Zuckerberg's superyacht arrived in Seattle on Tuesday as Meta announced 1,400 layoffs in King County. ]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19642291</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_virgin_galactic_tzr_083333.jpg?d=1200x630"><br/>The group, called Operation Period, will study the impacts of space on menstrual physiology — a key consideration for female astronauts.]]></description>
                                             </item>
         <item>
-            <title>Uganda closes its border with Congo, where suspected cases of a rare Ebola type are surging</title>
-                        <link>https://www.seattletimes.com/seattle-news/health/uganda-closes-its-border-with-congo-as-cases-of-a-rare-ebola-type-surge/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/health/uganda-closes-its-border-with-congo-as-cases-of-a-rare-ebola-type-surge/#respond</comments>
-            <pubDate>Wed, 27 May 2026 06:54:16 -0700</pubDate>
-            <dc:creator><![CDATA[RODNEY MUHUMUZA]]></dc:creator>
+            <title>Insurance fraudster sentenced for staging Tri-Cities crashes in $1M scam</title>
+                        <link>https://www.seattletimes.com/seattle-news/northwest/insurance-fraudster-sentenced-for-staging-tri-cities-crashes-in-1m-scam/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/northwest/insurance-fraudster-sentenced-for-staging-tri-cities-crashes-in-1m-scam/#respond</comments>
+            <pubDate>Thu, 28 May 2026 07:21:19 -0700</pubDate>
+            <dc:creator><![CDATA[Annette Cary]]></dc:creator>
             <category>
-                <![CDATA[ Health, Nation & World]]>
+                <![CDATA[ Law & Justice, Local News, Northwest]]>
             </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/uganda-closes-its-border-with-congo-as-cases-of-a-rare-ebola-type-surge/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.orgb96734598ea95b1cdb71986c8b1adf43APTOPIX_Congo_Ebola_Eid_al-Adha_94794.jpg?d=1200x630"><br/>Uganda has ordered the closure of its border with Congo, where suspected Ebola cases are surging.]]></description>
-                                            </item>
-        <item>
-            <title>Mayo Clinic Minute: Know the risk factors to prevent stroke</title>
-                        <link>https://www.seattletimes.com/seattle-news/health/mayo-clinic-minute-know-the-risk-factors-to-prevent-stroke/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/health/mayo-clinic-minute-know-the-risk-factors-to-prevent-stroke/#respond</comments>
-            <pubDate>Wed, 27 May 2026 06:01:04 -0700</pubDate>
-            <dc:creator><![CDATA[Mayo Clinic News Network]]></dc:creator>
-            <category>
-                <![CDATA[ Health, Life]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19635093</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2025/01/01132025_dementia_tzr_081252.jpg?d=1200x630"><br/>Maintaining physical activity and watching what you eat are both important factors in stroke prevention.]]></description>
-                                            </item>
-        <item>
-            <title>Why Seattle&#8217;s highway traffic during World Cup might be just fine</title>
-                        <link>https://www.seattletimes.com/seattle-news/transportation/why-seattles-highway-traffic-during-world-cup-might-be-just-fine/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/transportation/why-seattles-highway-traffic-during-world-cup-might-be-just-fine/#respond</comments>
-            <pubDate>Wed, 27 May 2026 06:00:00 -0700</pubDate>
-            <dc:creator><![CDATA[Mike Lindblom]]></dc:creator>
-            <category>
-                <![CDATA[ Eastside, Local News, Northwest, Puget Sound, Soccer, Sports, Traffic Lab, World Cup Seattle]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19616440</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05212026_tzr_tzr_131912.jpg?d=1200x630"><br/>Highway traffic during World Cup play might be better than normal, and no worse than during a Seahawks game. In  downtown Seattle, though, clogs could be severe.]]></description>
-                                            </item>
-        <item>
-            <title>La Conner council votes to bring back live music</title>
-                        <link>https://www.seattletimes.com/seattle-news/la-conner-council-votes-to-bring-back-live-music/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/la-conner-council-votes-to-bring-back-live-music/#respond</comments>
-            <pubDate>Wed, 27 May 2026 06:00:00 -0700</pubDate>
-            <dc:creator><![CDATA[Joseph O’Sullivan]]></dc:creator>
-            <category>
-                <![CDATA[ Local News, Music, Northwest]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19637736</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05262026_tzr_tzr_202532.jpg?d=1200x630"><br/>The La Conner Town Council on Tuesday voted to resume its summer live music series in Gilkey Square after surprise noise restrictions sparked an outcry.]]></description>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19641115</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2024/12/breaking-news-tzr-2.png?d=375x241"><br/>The conspirators bought cars for contrived crashes, often with other defendants' cars, and then filed insurance claims.]]></description>
                                             </item>
     </channel>
 </rss>
@@ -395,7 +396,7 @@
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 748/772 objects using Memcached
+Object Caching 581/1199 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-05-28 05:46:07 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-05-29 12:51:33 by W3 Total Cache
 -->
