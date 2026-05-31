@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/life/food-drink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Food &amp; Drink section brings you news about the Seattle restaurant and bar scene such as openings, closings, news about chefs and advice on where to go for a great meal or happy hour. </description>
-	<lastBuildDate>Fri, 29 May 2026 23:51:40 -0700</lastBuildDate>
+	<lastBuildDate>Sun, 31 May 2026 08:49:42 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>The simple, stunning way to level up breakfast (and dessert)</title>
+                        <link>https://www.seattletimes.com/life/food-drink/the-simple-stunning-way-to-level-up-breakfast-and-dessert/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
+            <comments>https://www.seattletimes.com/life/food-drink/the-simple-stunning-way-to-level-up-breakfast-and-dessert/#respond</comments>
+            <pubDate>Sun, 31 May 2026 06:00:04 -0700</pubDate>
+            <dc:creator><![CDATA[MELISSA CLARK]]></dc:creator>
+            <category>
+                <![CDATA[ Food & Drink, Life]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19636633</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05282026_TZR_GOOD_APPETITE_2-NYT_tzr_125910.jpg?d=1200x630"><br/>Roasting rhubarb is an excellent way to cook the cut stalks. The steady heat helps the pieces keep their shape, softening them without causing them to fall apart.]]></description>
+                                            </item>
         <item>
             <title>Raising Cane’s Lynnwood announces opening date</title>
                         <link>https://www.seattletimes.com/life/food-drink/raising-canes-lynnwood-announces-opening-date/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
@@ -366,37 +378,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19622404</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05202026_pizza_tzr_105321.jpg?d=1200x630"><br/>A restaurant in Philadelphia is combining pizza and caviar in a pairing that sounds ridiculous until you think about it for half a second.]]></description>
                                             </item>
-        <item>
-            <title>A proposed additive ban could change New York’s pizza and bagels, some say for the better</title>
-                        <link>https://www.seattletimes.com/business/a-proposed-additive-ban-could-change-new-yorks-pizza-and-bagels-some-say-for-the-better/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
-            <comments>https://www.seattletimes.com/business/a-proposed-additive-ban-could-change-new-yorks-pizza-and-bagels-some-say-for-the-better/#respond</comments>
-            <pubDate>Thu, 21 May 2026 21:07:04 -0700</pubDate>
-            <dc:creator><![CDATA[JAKE OFFENHARTZ]]></dc:creator>
-            <category>
-                <![CDATA[ Business, Food & Drink, Health, Nation, Nation & World]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/a-proposed-additive-ban-could-change-new-yorks-pizza-and-bagels-some-say-for-the-better/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05222026_pizza52226-tzr_tzr_042844.jpg?d=1200x630"><br/>New York City's iconic pizzerias and bagel shops may soon be forced to update their long-standing baking practices after state lawmakers moved to ban a common additive.]]></description>
-                                            </item>
-        <item>
-            <title>2 new rooftop bars for Seattle summertime — one far better than the other</title>
-                        <link>https://www.seattletimes.com/life/food-drink/2-new-rooftop-bars-for-seattle-summertime-one-far-better-than-the-other/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
-            <comments>https://www.seattletimes.com/life/food-drink/2-new-rooftop-bars-for-seattle-summertime-one-far-better-than-the-other/#respond</comments>
-            <pubDate>Thu, 21 May 2026 10:00:00 -0700</pubDate>
-            <dc:creator><![CDATA[Bethany Jean Clement]]></dc:creator>
-            <category>
-                <![CDATA[ Food & Drink, Life]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19607746</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/05142026_tzr_tzr_160004.jpg?d=1200x630"><br/>Seattle’s two newest rooftop lounges are both brought to us by big business — but one is massively better than the other, critic Bethany Jean Clement says.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 574/958 objects using Memcached
+Object Caching 560/965 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-05-30 01:50:36 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-05-31 10:35:58 by W3 Total Cache
 -->
