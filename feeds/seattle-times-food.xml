@@ -12,11 +12,47 @@
 	<atom:link href="https://www.seattletimes.com/life/food-drink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Food &amp; Drink section brings you news about the Seattle restaurant and bar scene such as openings, closings, news about chefs and advice on where to go for a great meal or happy hour. </description>
-	<lastBuildDate>Sun, 07 Jun 2026 06:01:05 -0700</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 15:47:07 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>Burger shack from acclaimed Seattle chef will open in Ballard</title>
+                        <link>https://www.seattletimes.com/life/food-drink/new-burger-shack-run-by-acclaimed-seattle-chef-will-open-in-ballard/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
+            <comments>https://www.seattletimes.com/life/food-drink/new-burger-shack-run-by-acclaimed-seattle-chef-will-open-in-ballard/#respond</comments>
+            <pubDate>Mon, 08 Jun 2026 10:00:00 -0700</pubDate>
+            <dc:creator><![CDATA[Tan Vinh]]></dc:creator>
+            <category>
+                <![CDATA[ Food & Drink, Life]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19663408</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06042026_TZR_Ox_Burger-NYT_tzr_151247.jpg?d=1200x630"><br/>Ox Burger, the Lao burger concept from chef Khampaeng Panyathong of Taurus Ox, has opened a satellite burger shack at Fair Isle in the Ballard Brewery District.]]></description>
+                                            </item>
+        <item>
+            <title>Sleep in caves in Cotignac, the French town you&#8217;ve never heard of</title>
+                        <link>https://www.seattletimes.com/life/food-drink/sleep-in-caves-in-cotignac-the-french-town-youve-never-heard-of/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
+            <comments>https://www.seattletimes.com/life/food-drink/sleep-in-caves-in-cotignac-the-french-town-youve-never-heard-of/#respond</comments>
+            <pubDate>Mon, 08 Jun 2026 06:22:03 -0700</pubDate>
+            <dc:creator><![CDATA[Mandy Applegate]]></dc:creator>
+            <category>
+                <![CDATA[ Food & Drink]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/sleep-in-caves-in-cotignac-the-french-town-youve-never-heard-of/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.orgb7687862451643b807f7f4ed9011a6efAncien-moulin-de-Cotignac-@HerveFabre_RESIZED.jpg?d=1200x630"><br/>American travelers set records in France last year, yet most never made it past the Riviera coastline to Cotignac, a Provence village at the foot of a sheer rock face. Those who drive an hour inland find hotel rooms carved into the cliff, a Michelin-recognized kitchen and the rosé producer whose bottles already sit on [&hellip;]]]></description>
+                                            </item>
+        <item>
+            <title>Pasta al limone inspires this bright and creamy 1-pan dish</title>
+                        <link>https://www.seattletimes.com/life/food-drink/pasta-al-limone-inspires-this-bright-and-creamy-1-pan-dish/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
+            <comments>https://www.seattletimes.com/life/food-drink/pasta-al-limone-inspires-this-bright-and-creamy-1-pan-dish/#respond</comments>
+            <pubDate>Mon, 08 Jun 2026 06:00:03 -0700</pubDate>
+            <dc:creator><![CDATA[Kayla Hoang]]></dc:creator>
+            <category>
+                <![CDATA[ Food & Drink, Life]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19642931</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/06042026_tzr_tzr_165512.jpg?d=1200x630"><br/>Pasta is swapped for gnocchi and asparagus in this bright and creamy one-pan dish inspired by pasta al limone.]]></description>
+                                            </item>
         <item>
             <title>Make your next meal vegetable-forward with these baked plantains</title>
                         <link>https://www.seattletimes.com/life/food-drink/make-your-next-meal-vegetable-forward-with-these-baked-plantains/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
@@ -36,7 +72,7 @@
             <pubDate>Sun, 07 Jun 2026 06:01:03 -0700</pubDate>
             <dc:creator><![CDATA[Seattle Times staff]]></dc:creator>
             <category>
-                <![CDATA[ Culture, Entertainment, Food & Drink, Life, Lifestyle, Music, Soccer, Sports, World Cup]]>
+                <![CDATA[ Culture, Entertainment, Food & Drink, Life, Lifestyle, Local News, Music, Soccer, Sports, World Cup Seattle]]>
             </category>
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19591140</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/GabiWC-Sports_web.jpg?d=1200x630"><br/>Seattle has prepared to host the FIFA World Cup 2026 for months. Here's everything you need to know as FIFA fever hits the city.]]></description>
@@ -126,18 +162,6 @@
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06032026_Oregon_tzr_080917.jpg?d=1200x630"><br/>The petition aims to expand animal cruelty laws and criminalize injuring, breeding or killing animals except in cases of self-defense or for veterinary care.]]></description>
                                             </item>
         <item>
-            <title>As beef prices hit record highs, home cooks rediscover the world&#8217;s oldest cheap proteins</title>
-                        <link>https://www.seattletimes.com/life/food-drink/as-beef-prices-hit-record-highs-home-cooks-rediscover-the-worlds-oldest-cheap-proteins/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
-            <comments>https://www.seattletimes.com/life/food-drink/as-beef-prices-hit-record-highs-home-cooks-rediscover-the-worlds-oldest-cheap-proteins/#respond</comments>
-            <pubDate>Wed, 03 Jun 2026 06:13:04 -0700</pubDate>
-            <dc:creator><![CDATA[Shruthi Baskaran-Makanju]]></dc:creator>
-            <category>
-                <![CDATA[ Food & Drink]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/as-beef-prices-hit-record-highs-home-cooks-rediscover-the-worlds-oldest-cheap-proteins/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.orgef41665f550840f8fc03f8a371428c26Hand-with-package-meat-beef-in-store.jpg?d=1200x630"><br/>Ground beef crossed $7 a pound this spring and shows no signs of coming back down. A federal antitrust probe into the four companies that process 85% of American beef launched this week, layered over a cattle supply shortage that has been building for years and won&#8217;t resolve quickly under any scenario. The issues go [&hellip;]]]></description>
-                                            </item>
-        <item>
             <title>2 downtown Seattle restaurants, Café Hitchcock and Oyster Cellar, close</title>
                         <link>https://www.seattletimes.com/life/food-drink/2-downtown-seattle-restaurants-cafe-hitchcock-and-oyster-cellar-close/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
             <comments>https://www.seattletimes.com/life/food-drink/2-downtown-seattle-restaurants-cafe-hitchcock-and-oyster-cellar-close/#respond</comments>
@@ -162,7 +186,7 @@
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06012026_tzr_tzr_184909.jpg?d=1200x630"><br/>After operating as a pop-up on the waterfront last summer, the ice cream franchise will do so again this summer before launching a full operation at Pier 54.]]></description>
                                             </item>
         <item>
-            <title>Pride 2026: 81 Seattle restaurants and bars with LGBTQ+ owners</title>
+            <title>Pride 2026: 84 Seattle restaurants and bars with LGBTQ+ owners</title>
                         <link>https://www.seattletimes.com/life/food-drink/pride-2026-84-seattle-restaurants-and-bars-with-lgbtq-owners/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
             <comments>https://www.seattletimes.com/life/food-drink/pride-2026-84-seattle-restaurants-and-bars-with-lgbtq-owners/#respond</comments>
             <pubDate>Tue, 02 Jun 2026 10:00:00 -0700</pubDate>
@@ -365,37 +389,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/news/the-most-talked-about-dining-trend-isnt-on-the-plate-its-at-your-table/</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org28d7c1c58979a4ed48bc9d52d07693f6Waiter-man-dressing-fish-at-restaurant.jpg?d=1200x630"><br/>When a server wheels a cart to your table and starts working, the room notices. Conversations pause, phones come out and dinner becomes something else entirely. After years of flat plates arriving from the kitchen with little ceremony, tableside preparation is back in a serious way, showing up in Michelin-starred bistros, luxury hotel dining rooms [&hellip;]]]></description>
                                             </item>
-        <item>
-            <title>In Jackson Hole, quiet luxury meets wide open wilderness</title>
-                        <link>https://www.seattletimes.com/life/food-drink/in-jackson-hole-quiet-luxury-meets-wide-open-wilderness/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
-            <comments>https://www.seattletimes.com/life/food-drink/in-jackson-hole-quiet-luxury-meets-wide-open-wilderness/#respond</comments>
-            <pubDate>Wed, 27 May 2026 07:28:04 -0700</pubDate>
-            <dc:creator><![CDATA[Ksenia Prints]]></dc:creator>
-            <category>
-                <![CDATA[ Food & Drink]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/in-jackson-hole-quiet-luxury-meets-wide-open-wilderness/</guid>
-            <description><![CDATA[<img src="https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"><br/>Jackson Hole, Wyoming, leads the nation in short-term rental bookings this summer, with 45.5% of the inventory already reserved as of March 28, 2026. June alone has nearly 60% of the capacity locked up, an increase of 20% over last year. That&#8217;s impressive for a community best known for its winter tourism attraction. Most people [&hellip;]]]></description>
-                                            </item>
-        <item>
-            <title>Safari bookings among US travelers have surged, and what they want has changed</title>
-                        <link>https://www.seattletimes.com/life/food-drink/safari-bookings-among-us-travelers-have-surged-and-what-they-want-has-changed/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
-            <comments>https://www.seattletimes.com/life/food-drink/safari-bookings-among-us-travelers-have-surged-and-what-they-want-has-changed/#respond</comments>
-            <pubDate>Wed, 27 May 2026 07:27:11 -0700</pubDate>
-            <dc:creator><![CDATA[Mandy Applegate]]></dc:creator>
-            <category>
-                <![CDATA[ Food & Drink]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/safari-bookings-among-us-travelers-have-surged-and-what-they-want-has-changed/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/05/urnpublicidap.org78d8e36db1e0689ea4b719a59ca14be3Depositphotos_5450025_S.jpg?d=999x630"><br/>The African safari, built around Big Five sightings, packed game drives and as many parks as possible per trip, gives way to a slower, more selective approach. Safari bookings through U.S. luxury travel advisors are up 22%, and the trips behind that number look nothing like the game-drive circuit most travelers picture. Conservation-led safari has [&hellip;]]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 555/988 objects using Memcached
+Object Caching 499/1072 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-06-07 08:07:40 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-06-09 03:36:26 by W3 Total Cache
 -->
