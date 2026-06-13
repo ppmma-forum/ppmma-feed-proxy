@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/life/food-drink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Food &amp; Drink section brings you news about the Seattle restaurant and bar scene such as openings, closings, news about chefs and advice on where to go for a great meal or happy hour. </description>
-	<lastBuildDate>Fri, 12 Jun 2026 09:44:26 -0700</lastBuildDate>
+	<lastBuildDate>Fri, 12 Jun 2026 10:57:52 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>5 new Seattle-area bars have opened just in time for summer</title>
+                        <link>https://www.seattletimes.com/life/food-drink/5-new-seattle-area-bars-have-opened-just-in-time-for-summer/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
+            <comments>https://www.seattletimes.com/life/food-drink/5-new-seattle-area-bars-have-opened-just-in-time-for-summer/#respond</comments>
+            <pubDate>Fri, 12 Jun 2026 13:00:00 -0700</pubDate>
+            <dc:creator><![CDATA[Tan Vinh]]></dc:creator>
+            <category>
+                <![CDATA[ Food & Drink, Life]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19643954</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06092026_tzr_tzr_104057.jpg?d=1200x630"><br/>Leading this fresh list of new local bars: Von’s 1000 Spirits of Seattle has expanded across Lake Washington with a 118-seat bar near the Kirkland waterfront.]]></description>
+                                            </item>
         <item>
             <title>Pastry chefs say these ingredients make the difference between a good strawberry shortcake and a great one</title>
                         <link>https://www.seattletimes.com/life/food-drink/pastry-chefs-say-these-ingredients-make-the-difference-between-a-good-strawberry-shortcake-and-a-great-one/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
@@ -377,25 +389,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19640559</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/05272026_tzr_tzr_190359.jpg?d=1200x630"><br/>Here’s a list of places across Seattle to eat, drink and show support during Pride and beyond — with resources from Intentionalist for more.]]></description>
                                             </item>
-        <item>
-            <title>Viral food trends that stretch your grocery budget further</title>
-                        <link>https://www.seattletimes.com/life/food-drink/viral-food-trends-that-stretch-your-grocery-budget-further/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
-            <comments>https://www.seattletimes.com/life/food-drink/viral-food-trends-that-stretch-your-grocery-budget-further/#respond</comments>
-            <pubDate>Tue, 02 Jun 2026 06:18:16 -0700</pubDate>
-            <dc:creator><![CDATA[Lisa MarcAurele]]></dc:creator>
-            <category>
-                <![CDATA[ Food & Drink]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/viral-food-trends-that-stretch-your-grocery-budget-further/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.orgc416523cbc5b18b0ca770b340dfeef4fviral-food-trends-ft.jpg?d=1200x630"><br/>Social media food trends often look flashy, but many are surprisingly practical for home cooks trying to save money.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 432/1123 objects using Memcached
+Object Caching 424/1127 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-06-12 11:25:45 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-06-13 03:06:50 by W3 Total Cache
 -->
