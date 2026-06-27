@@ -12,7 +12,7 @@
 	<atom:link href="https://www.seattletimes.com/seattle-news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times Local section covers Seattle, the Eastside, Snohomish County, the Puget Sound region and the Pacific Northwest. Coverage includes breaking news, crime, transportation, politics, education, health and medical, the environment, science and legalized marijuana. Also, columnists Danny Westneat, Jerry Large and Nicole Brodeur, investigative reporting and Times Watchdog coverage.</description>
-	<lastBuildDate>Sat, 27 Jun 2026 13:01:25 -0700</lastBuildDate>
+	<lastBuildDate>Sat, 27 Jun 2026 14:19:51 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -219,7 +219,7 @@
                 <![CDATA[ Photography, World Cup, World Cup Seattle]]>
             </category>
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19729377</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06262026_tzr_tzr_224259.jpg?d=1200x630"><br/>]]></description>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06272026_tzr_tzr_141625.jpg?d=1200x630"><br/>]]></description>
                                             </item>
         <item>
             <title>WA collects supplies for Venezuela&#8217;s earthquake survivors</title>
@@ -431,7 +431,7 @@
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 750/879 objects using Memcached
+Object Caching 648/1035 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-06-27 13:02:03 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-06-27 14:34:01 by W3 Total Cache
 -->
