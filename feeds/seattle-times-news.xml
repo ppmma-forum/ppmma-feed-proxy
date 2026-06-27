@@ -12,7 +12,7 @@
 	<atom:link href="https://www.seattletimes.com/seattle-news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times Local section covers Seattle, the Eastside, Snohomish County, the Puget Sound region and the Pacific Northwest. Coverage includes breaking news, crime, transportation, politics, education, health and medical, the environment, science and legalized marijuana. Also, columnists Danny Westneat, Jerry Large and Nicole Brodeur, investigative reporting and Times Watchdog coverage.</description>
-	<lastBuildDate>Sat, 27 Jun 2026 11:40:19 -0700</lastBuildDate>
+	<lastBuildDate>Sat, 27 Jun 2026 13:01:25 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -431,7 +431,7 @@
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 796/807 objects using Memcached
+Object Caching 750/879 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-06-27 11:41:29 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-06-27 13:02:03 by W3 Total Cache
 -->

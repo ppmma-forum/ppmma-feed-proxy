@@ -12,7 +12,7 @@
 	<atom:link href="https://www.seattletimes.com/business/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times business section covers Seattle, the Eastside including Bellevue, Snohomish County, the Puget Sound region and Pacific Northwest. Coverage includes Amazon; Boeing and aerospace; Microsoft and technology; Starbucks, Nordstrom and retail; the state and U.S. economy, commercial and residential real estate; personal finances; and stock markets. Columnist Jonathan Talton is featured.</description>
-	<lastBuildDate>Sat, 27 Jun 2026 11:38:22 -0700</lastBuildDate>
+	<lastBuildDate>Sat, 27 Jun 2026 13:01:22 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -42,7 +42,7 @@
             <description><![CDATA[<img src="https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"><br/>The crash occurred in one of the capital's central business areas, slightly east of the headquarters of the ruling Communist Party and residence of top leaders.]]></description>
                                             </item>
         <item>
-            <title>America In Focus: key inflation gauge surges to 3-year high, mortgage rate climbs</title>
+            <title>America In Focus: Key inflation gauge surges to 3-year high, mortgage rate climbs</title>
                         <link>https://www.seattletimes.com/business/america-in-focus-key-inflation-gauge-surges-to-3-year-high-mortgage-rate-climbs/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_business</link>
             <comments>https://www.seattletimes.com/business/america-in-focus-key-inflation-gauge-surges-to-3-year-high-mortgage-rate-climbs/#respond</comments>
             <pubDate>Sat, 27 Jun 2026 07:10:20 -0700</pubDate>
@@ -431,7 +431,7 @@
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 728/739 objects using Memcached
+Object Caching 350/1284 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-06-27 11:40:02 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-06-27 13:02:33 by W3 Total Cache
 -->

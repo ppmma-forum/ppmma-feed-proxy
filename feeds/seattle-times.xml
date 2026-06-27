@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>Local news, sports, business, politics, entertainment, travel, restaurants and opinion for Seattle and the Pacific Northwest.</description>
-	<lastBuildDate>Sat, 27 Jun 2026 11:30:20 -0700</lastBuildDate>
+	<lastBuildDate>Sat, 27 Jun 2026 12:48:41 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>Mariners won&#8217;t follow Logan Gilbert&#8217;s start with Emerson Hancock Saturday</title>
+                        <link>https://www.seattletimes.com/sports/mariners/mariners-wont-follow-logan-gilberts-start-with-emerson-hancock-saturday/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
+            <comments>https://www.seattletimes.com/sports/mariners/mariners-wont-follow-logan-gilberts-start-with-emerson-hancock-saturday/#respond</comments>
+            <pubDate>Sat, 27 Jun 2026 12:48:39 -0700</pubDate>
+            <dc:creator><![CDATA[Ryan Divish]]></dc:creator>
+            <category>
+                <![CDATA[ Mariners, Sports]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19728568</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06162026_TZR_Orioles_Mariners-06162026-JB_tzr_19535.jpg?d=1200x630"><br/>The Mariners have put the piggyback on the backburner for the moment, as Emerson Hancock will no longer follow Logan Gilbert's start on Saturday in Cleveland.]]></description>
+                                            </item>
         <item>
             <title>Tens of thousands march in the first Budapest Pride since Viktor Orbán was voted out</title>
                         <link>https://www.seattletimes.com/news/tens-of-thousands-march-in-the-first-budapest-pride-since-viktor-orban-was-voted-out/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
@@ -159,7 +171,7 @@
                 <![CDATA[ Nation & World]]>
             </category>
             <guid isPermaLink="false">https://www.seattletimes.com/news/israeli-drone-strike-kills-palestinian-siblings-in-a-gaza-tent-camp/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.org7f419c617992434865dc47598c169eb5Israel_Palestinians_Gaza_32141.jpg?d=1200x630"><br/>An Israeli drone strike has killed two Palestinian siblings in southern Gaza, according to Nasser hospital.]]></description>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.org7f419c617992434865dc47598c169eb5Israel_Palestinians_Gaza_927_3.jpg?d=1200x630"><br/>Nasser Hospital says an Israeli drone strike has killed two Palestinian siblings in southern Gaza.]]></description>
                                             </item>
         <item>
             <title>5.9 magnitude earthquake shakes Pakistan and Afghanistan, no damage reported</title>
@@ -174,7 +186,7 @@
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.org006859907010f8f66cf4fb5ceb2ec6cbPakistan_97239.jpg?d=1200x630"><br/>A magnitude 5.9 earthquake has struck parts of Pakistan and Afghanistan, causing panic among residents.]]></description>
                                             </item>
         <item>
-            <title>America In Focus: key inflation gauge surges to 3-year high, mortgage rate climbs</title>
+            <title>America In Focus: Key inflation gauge surges to 3-year high, mortgage rate climbs</title>
                         <link>https://www.seattletimes.com/business/america-in-focus-key-inflation-gauge-surges-to-3-year-high-mortgage-rate-climbs/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
             <comments>https://www.seattletimes.com/business/america-in-focus-key-inflation-gauge-surges-to-3-year-high-mortgage-rate-climbs/#respond</comments>
             <pubDate>Sat, 27 Jun 2026 07:10:20 -0700</pubDate>
@@ -413,25 +425,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/news/bahrain-accuses-iran-of-launching-a-drone-attack-targeting-the-island-kingdom/</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06272026_iranmideast627tzr_tzr_063009.jpg?d=1200x630"><br/>Iran has launched a drone assault on Bahrain, which is home to the U.S. Navy’s 5th Fleet.]]></description>
                                             </item>
-        <item>
-            <title>A small plane has crashed into a Beijing high-rise, killing the pilot and injuring 13</title>
-                        <link>https://www.seattletimes.com/nation-world/small-plane-crash-at-beijing-high-rise-kills-the-pilot-and-injures-13-authorities-say/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
-            <comments>https://www.seattletimes.com/nation-world/small-plane-crash-at-beijing-high-rise-kills-the-pilot-and-injures-13-authorities-say/#respond</comments>
-            <pubDate>Sat, 27 Jun 2026 02:21:08 -0700</pubDate>
-            <dc:creator><![CDATA[The Associated Press]]></dc:creator>
-            <category>
-                <![CDATA[ Nation & World]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/small-plane-crash-at-beijing-high-rise-kills-the-pilot-and-injures-13-authorities-say/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.org9c95676d875fbb0906a9dd893e14c3f5China_Building_Damaged_45579.jpg?d=1200x630"><br/>Chinese authorities say a small plane that crashed into a building in Beijing killed the pilot and injured 13 people.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 713/742 objects using Memcached
+Object Caching 724/737 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-06-27 11:31:22 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-06-27 12:51:04 by W3 Total Cache
 -->
