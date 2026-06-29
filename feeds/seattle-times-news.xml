@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/seattle-news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times Local section covers Seattle, the Eastside, Snohomish County, the Puget Sound region and the Pacific Northwest. Coverage includes breaking news, crime, transportation, politics, education, health and medical, the environment, science and legalized marijuana. Also, columnists Danny Westneat, Jerry Large and Nicole Brodeur, investigative reporting and Times Watchdog coverage.</description>
-	<lastBuildDate>Sun, 28 Jun 2026 21:43:15 -0700</lastBuildDate>
+	<lastBuildDate>Mon, 29 Jun 2026 02:54:10 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>Europe&#8217;s record heat has overwhelmed Paris mortuaries and left families in distress</title>
+                        <link>https://www.seattletimes.com/seattle-news/health/europes-record-heat-has-overwhelmed-paris-mortuaries-and-left-families-in-distress/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/health/europes-record-heat-has-overwhelmed-paris-mortuaries-and-left-families-in-distress/#respond</comments>
+            <pubDate>Sun, 28 Jun 2026 22:10:14 -0700</pubDate>
+            <dc:creator><![CDATA[JOHN LEICESTER and JEFFREY SCHAEFFER]]></dc:creator>
+            <category>
+                <![CDATA[ Health]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/europes-record-heat-has-overwhelmed-paris-mortuaries-and-left-families-in-distress/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.orga9095af72d14cfdd9ca43637490083e9France_Heat_Counting_the_Dead_44_23.jpg?d=1200x630"><br/>A record-breaking heat wave has overwhelmed mortuaries in Paris, leaving funeral directors struggling to find space for bodies.]]></description>
+                                            </item>
         <item>
             <title>Hundreds of thousands rally, party, protest at 2026 Seattle Pride Parade</title>
                         <link>https://www.seattletimes.com/seattle-news/hundreds-of-thousands-rally-party-protest-at-2026-seattle-pride-parade/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
@@ -413,25 +425,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19729244</guid>
             <description><![CDATA[<img src="https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"><br/>Applicants selected in a drawing will receive a $500 to $2,000 rebate for an e-bike, based on income.]]></description>
                                             </item>
-        <item>
-            <title>Testosterone and the Bible are the ‘new punk rock’ at Gorge event</title>
-                        <link>https://www.seattletimes.com/nation-world/testosterone-and-the-bible-are-the-new-punk-rock-at-gorge-event/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/nation-world/testosterone-and-the-bible-are-the-new-punk-rock-at-gorge-event/#respond</comments>
-            <pubDate>Fri, 26 Jun 2026 16:20:13 -0700</pubDate>
-            <dc:creator><![CDATA[Ruth Graham]]></dc:creator>
-            <category>
-                <![CDATA[ Local News, Local Politics, Nation & World, Nation & World Politics, Northwest]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19727906</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06262026_tzr_tzr_113109.jpg?d=1200x630"><br/>More than 4,500 men gathered in central Washington over Father’s Day weekend for a testosterone-fueled celebration of Christianity and patriotism]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 809/820 objects using Memcached
+Object Caching 808/819 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-06-28 22:05:10 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-06-29 02:59:29 by W3 Total Cache
 -->
