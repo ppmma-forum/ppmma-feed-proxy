@@ -12,13 +12,25 @@
 	<atom:link href="https://www.seattletimes.com/life/food-drink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Food &amp; Drink section brings you news about the Seattle restaurant and bar scene such as openings, closings, news about chefs and advice on where to go for a great meal or happy hour. </description>
-	<lastBuildDate>Tue, 30 Jun 2026 11:20:13 -0700</lastBuildDate>
+	<lastBuildDate>Tue, 30 Jun 2026 13:02:13 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
         <item>
-            <title>Seattle Dog, cream cheese and all, named country’s best hot dog by NYT</title>
+            <title>Explore the foods of Sonora, including its spectacular hot dog in WA</title>
+                        <link>https://www.seattletimes.com/pacific-nw-magazine/explore-the-foods-of-sonora-including-its-spectacular-hot-dog-in-wa/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
+            <comments>https://www.seattletimes.com/pacific-nw-magazine/explore-the-foods-of-sonora-including-its-spectacular-hot-dog-in-wa/#respond</comments>
+            <pubDate>Tue, 30 Jun 2026 13:00:00 -0700</pubDate>
+            <dc:creator><![CDATA[Jill Lightner]]></dc:creator>
+            <category>
+                <![CDATA[ Food & Drink, Pacific NW Magazine]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19671726</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06082026_TZR_Sonora_Carne_Asada_House-Sonora_Dog-2_.jpg?d=1200x630"><br/>The exact origins of the Sonoran dog is hazy, but this restaurant with locations in Seattle and Auburn is knocking out beefy wonders with thick, creative toppings. ]]></description>
+                                            </item>
+        <item>
+            <title>Seattle dog, cream cheese and all, named country’s best hot dog by NYT</title>
                         <link>https://www.seattletimes.com/life/food-drink/seattle-dog-cream-cheese-and-all-named-countrys-best-hot-dog-by-nyt/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
             <comments>https://www.seattletimes.com/life/food-drink/seattle-dog-cream-cheese-and-all-named-countrys-best-hot-dog-by-nyt/#respond</comments>
             <pubDate>Tue, 30 Jun 2026 11:15:00 -0700</pubDate>
@@ -27,7 +39,7 @@
                 <![CDATA[ Culture, Food & Drink, Life]]>
             </category>
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19735014</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06292026_tzr_tzr_130611.jpg?d=1200x630"><br/>With its cream cheese and onions, the Seattle Dog was named the country’s best regional dog in a taste test by The New York Times and famed chef José Andrés.]]></description>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06292026_tzr_tzr_130611.jpg?d=1200x630"><br/>With its cream cheese and onions, the Seattle dog was named the country’s best regional dog in a taste test by The New York Times and famed chef José Andrés.]]></description>
                                             </item>
         <item>
             <title>5 new Seattle bars include cocktail dens and a medieval-themed dream</title>
@@ -401,25 +413,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/news/quebecs-new-michelin-stars-deliver-europe-for-the-price-of-gas/</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.orgab6cd3eef4dc53da25e3f2569bbf9cf8Popular-St-Paul-street-in-the-Old-Port.jpg?d=1200x630"><br/>The Michelin Guide added four new stars to Québec in its second annual selection this May, bringing the province&#8217;s total to 13. The announcement arrived just days after four restaurants in Montreal appeared on North America&#8217;s 50 Best list, a distinction shared by only a handful of cities on the continent. For food lovers, that&#8217;s [&hellip;]]]></description>
                                             </item>
-        <item>
-            <title>Perimenopause goes viral, and doctors field the fallout</title>
-                        <link>https://www.seattletimes.com/life/food-drink/perimenopause-goes-viral-and-doctors-field-the-fallout/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
-            <comments>https://www.seattletimes.com/life/food-drink/perimenopause-goes-viral-and-doctors-field-the-fallout/#respond</comments>
-            <pubDate>Mon, 22 Jun 2026 06:37:03 -0700</pubDate>
-            <dc:creator><![CDATA[Jessica Haggard]]></dc:creator>
-            <category>
-                <![CDATA[ Food & Drink]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/perimenopause-goes-viral-and-doctors-field-the-fallout/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.org2a9117d6f21b25f292275d6b38b42c99Doctor-with-female-patient.jpg?d=1200x630"><br/>Perimenopause has become a cultural flashpoint. Nearly 95% of women who identify as being in perimenopause report fatigue and exhaustion, not hallmark symptoms like hot flashes and night sweats, according to a global survey published in Menopause. The disconnect between what women actually experience and what is widely recognized plays out in real time, with [&hellip;]]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 729/740 objects using Memcached
+Object Caching 296/1318 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-06-30 12:13:47 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-06-30 14:06:35 by W3 Total Cache
 -->
