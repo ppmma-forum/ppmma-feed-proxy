@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/seattle-news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times Local section covers Seattle, the Eastside, Snohomish County, the Puget Sound region and the Pacific Northwest. Coverage includes breaking news, crime, transportation, politics, education, health and medical, the environment, science and legalized marijuana. Also, columnists Danny Westneat, Jerry Large and Nicole Brodeur, investigative reporting and Times Watchdog coverage.</description>
-	<lastBuildDate>Thu, 02 Jul 2026 12:57:51 -0700</lastBuildDate>
+	<lastBuildDate>Thu, 02 Jul 2026 14:06:01 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>Internal DOL documents raise questions about impartiality and transparency</title>
+                        <link>https://www.seattletimes.com/seattle-news/internal-dol-documents-raise-questions-about-impartiality-and-transparency/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/internal-dol-documents-raise-questions-about-impartiality-and-transparency/#respond</comments>
+            <pubDate>Thu, 02 Jul 2026 13:31:06 -0700</pubDate>
+            <dc:creator><![CDATA[Shauna Sowersby]]></dc:creator>
+            <category>
+                <![CDATA[ Law & Justice, Local News, Local Politics]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19741902</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07022026_TZR_Department_of_Licensing-2025-JB_tzr_12.jpg?d=1200x630"><br/>A state administrative judge was briefly suspended for sending internal messages deemed “unprofessional, violent, biased and prejudiced." Lawyers in the case say the records reveal a broad disregard for the Public Records Act.]]></description>
+                                            </item>
         <item>
             <title>Amazon’s emissions jump 16% amid AI boom</title>
                         <link>https://www.seattletimes.com/business/amazon/amazons-emissions-jump-16-amid-ai-boom/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
@@ -413,25 +425,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19742890</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07012026_TZR_Nippon_Dynawave_Packaging_Company-0601.jpg?d=1200x630"><br/>The office noted that it hasn’t made any allegations, nor does it presume any wrongdoing “actively contributed to the disaster at this time.”]]></description>
                                             </item>
-        <item>
-            <title>Scientists made a cell with most of the hallmarks of life. Here’s what to know</title>
-                        <link>https://www.seattletimes.com/nation-world/scientists-made-a-cell-with-most-of-the-hallmarks-of-life-heres-what-to-know/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/nation-world/scientists-made-a-cell-with-most-of-the-hallmarks-of-life-heres-what-to-know/#respond</comments>
-            <pubDate>Wed, 01 Jul 2026 14:07:58 -0700</pubDate>
-            <dc:creator><![CDATA[K.R. Callaway]]></dc:creator>
-            <category>
-                <![CDATA[ Nation, Nation & World, Science]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19741561</guid>
-            <description><![CDATA[<img src="https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"><br/>SpudCell is a synthetic cell made by scientists at the University of Minnesota. It’s a pared-down version of a living cell structure So is it alive?]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 864/910 objects using Memcached
+Object Caching 780/793 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-02 12:57:54 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-02 14:07:30 by W3 Total Cache
 -->
