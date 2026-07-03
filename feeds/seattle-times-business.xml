@@ -12,7 +12,7 @@
 	<atom:link href="https://www.seattletimes.com/business/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times business section covers Seattle, the Eastside including Bellevue, Snohomish County, the Puget Sound region and Pacific Northwest. Coverage includes Amazon; Boeing and aerospace; Microsoft and technology; Starbucks, Nordstrom and retail; the state and U.S. economy, commercial and residential real estate; personal finances; and stock markets. Columnist Jonathan Talton is featured.</description>
-	<lastBuildDate>Fri, 03 Jul 2026 13:25:19 -0700</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jul 2026 14:45:26 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -445,7 +445,7 @@ bidding wars. ]]></description>
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 128/1614 objects using Memcached
+Object Caching 443/1196 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-03 13:32:31 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-03 14:57:16 by W3 Total Cache
 -->
