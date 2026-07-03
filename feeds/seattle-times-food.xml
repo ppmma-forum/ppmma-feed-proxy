@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/life/food-drink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Food &amp; Drink section brings you news about the Seattle restaurant and bar scene such as openings, closings, news about chefs and advice on where to go for a great meal or happy hour. </description>
-	<lastBuildDate>Thu, 02 Jul 2026 12:22:21 -0700</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jul 2026 03:59:55 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>Who can sell ‘6 7’ chicken nuggets? Company is asking court to decide</title>
+                        <link>https://www.seattletimes.com/nation-world/who-can-sell-6-7-chicken-huggets-company-is-asking-court-to-decide/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
+            <comments>https://www.seattletimes.com/nation-world/who-can-sell-6-7-chicken-huggets-company-is-asking-court-to-decide/#respond</comments>
+            <pubDate>Fri, 03 Jul 2026 03:52:02 -0700</pubDate>
+            <dc:creator><![CDATA[Adeel Hassan]]></dc:creator>
+            <category>
+                <![CDATA[ Food & Drink, Nation & World, Oddities, Retail]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19743587</guid>
+            <description><![CDATA[<img src="https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"><br/>The “6 7” meme comes to the world of frozen chicken nuggets, and a dispute breaks out.]]></description>
+                                            </item>
         <item>
             <title>How German sausages became an American icon we call the hot dog</title>
                         <link>https://www.seattletimes.com/nation-world/nation/the-hot-dog-we-need-to-be-frank-about-how-german-sausages-became-an-american-icon/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
@@ -401,25 +413,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19712517</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06232026_World_Cup_concession_food_TZR_tzr_120607.jpg?d=1200x630"><br/>Vancouver offers short rib poutine (an iconic Canadian dish of fries loaded with beef gravy, pulled short rib and cheese curds) along with a maple bacon smokie (sausage topped with bacon onion jam).]]></description>
                                             </item>
-        <item>
-            <title>18 new restaurants in downtown Seattle and neighborhoods around it</title>
-                        <link>https://www.seattletimes.com/life/food-drink/18-new-restaurants-in-downtown-seattle-and-neighborhoods-around-it/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
-            <comments>https://www.seattletimes.com/life/food-drink/18-new-restaurants-in-downtown-seattle-and-neighborhoods-around-it/#respond</comments>
-            <pubDate>Wed, 24 Jun 2026 06:00:00 -0700</pubDate>
-            <dc:creator><![CDATA[Tan Vinh]]></dc:creator>
-            <category>
-                <![CDATA[ Food & Drink, Life]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19711258</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06222026_open_1542592.jpg?d=1200x630"><br/>Looking for a good new restaurant near downtown Seattle? We have 18 ideas, from a Brazilian counter at Pike Place Market to a Japanese chain's latest outpost.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 439/1132 objects using Memcached
+Object Caching 167/1489 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-02 16:56:49 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-03 10:53:07 by W3 Total Cache
 -->
