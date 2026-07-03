@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/seattle-news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times Local section covers Seattle, the Eastside, Snohomish County, the Puget Sound region and the Pacific Northwest. Coverage includes breaking news, crime, transportation, politics, education, health and medical, the environment, science and legalized marijuana. Also, columnists Danny Westneat, Jerry Large and Nicole Brodeur, investigative reporting and Times Watchdog coverage.</description>
-	<lastBuildDate>Fri, 03 Jul 2026 10:51:26 -0700</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jul 2026 13:27:41 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>Woodland Park Zoo evacuated after bomb threat</title>
+                        <link>https://www.seattletimes.com/seattle-news/woodland-park-zoo-evacuated-closed-for-the-day-after-bomb-threat/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/woodland-park-zoo-evacuated-closed-for-the-day-after-bomb-threat/#respond</comments>
+            <pubDate>Fri, 03 Jul 2026 12:12:43 -0700</pubDate>
+            <dc:creator><![CDATA[Denisa R. Superville]]></dc:creator>
+            <category>
+                <![CDATA[ Law & Justice, Local News]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19749438</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07032026_evacbombthreatzootzr_tzr_115558.jpg?d=1200x630"><br/>Woodland Park Zoo was evacuated Friday morning after it received a bomb threat shortly after 11 a.m.]]></description>
+                                            </item>
         <item>
             <title>Elderly woman found dead after a home fire near Seattle&#8217;s Magnuson Park</title>
                         <link>https://www.seattletimes.com/seattle-news/elderly-woman-found-dead-after-a-home-fire-near-seattles-magnuson-park/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
@@ -378,25 +390,13 @@ bidding wars. ]]></description>
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19744016</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2024/02/breaking-news-2-TZR.jpeg?d=1200x630"><br/>Police said the sailor moved the teenage girls into his hotel, where he began sexually exploiting and filming sexual acts with them.]]></description>
                                             </item>
-        <item>
-            <title>Last-minute launch problem delays satellite rescue mission for NASA</title>
-                        <link>https://www.seattletimes.com/nation-world/nation/last-minute-launch-problem-delays-satellite-rescue-mission-for-nasa/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/nation-world/nation/last-minute-launch-problem-delays-satellite-rescue-mission-for-nasa/#respond</comments>
-            <pubDate>Thu, 02 Jul 2026 06:09:12 -0700</pubDate>
-            <dc:creator><![CDATA[MARCIA DUNN]]></dc:creator>
-            <category>
-                <![CDATA[ Nation, Science]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/last-minute-launch-problem-delays-satellite-rescue-mission-for-nasa/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.orgf715e10a93c1015e280a7ccd1028a9c4Satellite_Rescue_Mission_3_967.jpg?d=1200x630"><br/>A rush rescue mission to save a NASA space telescope remains grounded, this time because of a last-minute launch problem.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 475/1270 objects using Memcached
+Object Caching 785/799 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-03 10:51:28 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-03 13:34:37 by W3 Total Cache
 -->
