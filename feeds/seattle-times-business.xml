@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/business/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times business section covers Seattle, the Eastside including Bellevue, Snohomish County, the Puget Sound region and Pacific Northwest. Coverage includes Amazon; Boeing and aerospace; Microsoft and technology; Starbucks, Nordstrom and retail; the state and U.S. economy, commercial and residential real estate; personal finances; and stock markets. Columnist Jonathan Talton is featured.</description>
-	<lastBuildDate>Sat, 04 Jul 2026 09:49:44 -0700</lastBuildDate>
+	<lastBuildDate>Sat, 04 Jul 2026 12:04:28 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>Can we finally wear shorts to the office this summer?</title>
+                        <link>https://www.seattletimes.com/business/can-we-finally-wear-shorts-to-the-office-this-summer/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_business</link>
+            <comments>https://www.seattletimes.com/business/can-we-finally-wear-shorts-to-the-office-this-summer/#respond</comments>
+            <pubDate>Sat, 04 Jul 2026 10:00:02 -0700</pubDate>
+            <dc:creator><![CDATA[Chris Rovzar]]></dc:creator>
+            <category>
+                <![CDATA[ Business, Fashion, Life, Markets, Nation & World, Opinion, Retail, World]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19737258</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/06302026_tzr_tzr_145434.jpg?d=1200x630"><br/>The resistance to shorts in formal offices is powerful, but rising temperatures have renewed the debate about their place in offices.]]></description>
+                                            </item>
         <item>
             <title>America In Focus: consumers still gloomy about economy; US hiring falls in June</title>
                         <link>https://www.seattletimes.com/business/america-in-focus-consumers-still-gloomy-about-economy-us-hiring-falls-in-june/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_business</link>
@@ -427,25 +439,13 @@ bidding wars. ]]></description>
             <guid isPermaLink="false">https://www.seattletimes.com/news/trump-administration-proposes-a-rule-it-says-could-save-medicare-patients-1-1-billion-on-drugs/</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.orge44ae3a9f19fe55811fcb64f2849abf6Drug_Prices_States_72575.jpg?d=1200x630"><br/>The Trump administration is proposing a new rule to keep hospitals from marking up discounted drugs for Medicare patients.]]></description>
                                             </item>
-        <item>
-            <title>U.S. filings for jobless aid fall to 215,000 as layoffs remain at historically healthy levels</title>
-                        <link>https://www.seattletimes.com/business/u-s-filings-for-jobless-aid-fall-to-215000-as-layoffs-remain-at-historically-healthy-levels/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_business</link>
-            <comments>https://www.seattletimes.com/business/u-s-filings-for-jobless-aid-fall-to-215000-as-layoffs-remain-at-historically-healthy-levels/#respond</comments>
-            <pubDate>Thu, 02 Jul 2026 05:45:16 -0700</pubDate>
-            <dc:creator><![CDATA[MATT OTT]]></dc:creator>
-            <category>
-                <![CDATA[ Business, Economy]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/u-s-filings-for-jobless-aid-fall-to-215000-as-layoffs-remain-at-historically-healthy-levels/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org982d6cccad5a1b17b0b8cbfde585eeb6Unemployment_Benefits__369_.jpg?d=1200x630"><br/>U.S. applications for jobless aid inched down last week as layoffs remain at historically healthy levels.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 751/762 objects using Memcached
+Object Caching 168/1614 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-04 09:53:26 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-04 12:13:44 by W3 Total Cache
 -->
