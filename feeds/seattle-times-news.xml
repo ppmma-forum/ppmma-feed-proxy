@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/seattle-news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times Local section covers Seattle, the Eastside, Snohomish County, the Puget Sound region and the Pacific Northwest. Coverage includes breaking news, crime, transportation, politics, education, health and medical, the environment, science and legalized marijuana. Also, columnists Danny Westneat, Jerry Large and Nicole Brodeur, investigative reporting and Times Watchdog coverage.</description>
-	<lastBuildDate>Sun, 05 Jul 2026 06:24:13 -0700</lastBuildDate>
+	<lastBuildDate>Sun, 05 Jul 2026 09:35:28 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>Chelan Hills fire spurs evacuations</title>
+                        <link>https://www.seattletimes.com/seattle-news/chelan-hills-fire-spurs-evacuations/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/chelan-hills-fire-spurs-evacuations/#respond</comments>
+            <pubDate>Sun, 05 Jul 2026 09:00:46 -0700</pubDate>
+            <dc:creator><![CDATA[Joseph O’Sullivan]]></dc:creator>
+            <category>
+                <![CDATA[ Local News, Northwest, Outdoors]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19752643</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06262026_tzr_tzr_142205.jpg?d=1200x630"><br/>No major injuries have been reported so far, according to the Douglas County Sheriff's Office.]]></description>
+                                            </item>
         <item>
             <title>The wearable data your doctor actually wants</title>
                         <link>https://www.seattletimes.com/business/the-wearable-data-your-doctor-actually-wants/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
@@ -403,25 +415,13 @@ bidding wars. ]]></description>
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19744029</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07022026_tzr_tzr_152506.jpg?d=1200x630"><br/>The Sounders say "it's an honor" to have hosted Belgium for much of the World Cup, even as the U.S. arrives as Belgium's opponent for their big matchup in Seattle.]]></description>
                                             </item>
-        <item>
-            <title>WA crabbing season: What to know and what not to do this summer</title>
-                        <link>https://www.seattletimes.com/seattle-news/wa-crabbing-season-what-to-know-and-what-not-to-do-this-summer/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/wa-crabbing-season-what-to-know-and-what-not-to-do-this-summer/#respond</comments>
-            <pubDate>Fri, 03 Jul 2026 06:00:00 -0700</pubDate>
-            <dc:creator><![CDATA[Kai Uyehara]]></dc:creator>
-            <category>
-                <![CDATA[ Environment, Life, Local News, Outdoors, Puget Sound]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19746399</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07022026_TZR_Crabbing-2017-AP_tzr_132352.jpg?d=1200x630"><br/>From harvesting times and poisoned shellfish to tagged crabs and smuggled crustaceans, here’s what you need to know this crabbing season.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 811/826 objects using Memcached
+Object Caching 352/1476 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-05 07:23:42 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-05 09:58:04 by W3 Total Cache
 -->
