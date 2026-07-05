@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/life/food-drink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Food &amp; Drink section brings you news about the Seattle restaurant and bar scene such as openings, closings, news about chefs and advice on where to go for a great meal or happy hour. </description>
-	<lastBuildDate>Fri, 03 Jul 2026 03:59:55 -0700</lastBuildDate>
+	<lastBuildDate>Sun, 05 Jul 2026 06:00:06 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>It doesn’t get better than these skillet pork chops with buttered corn</title>
+                        <link>https://www.seattletimes.com/life/food-drink/it-doesnt-get-better-than-these-skillet-pork-chops-with-buttered-corn/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
+            <comments>https://www.seattletimes.com/life/food-drink/it-doesnt-get-better-than-these-skillet-pork-chops-with-buttered-corn/#respond</comments>
+            <pubDate>Sun, 05 Jul 2026 06:00:06 -0700</pubDate>
+            <dc:creator><![CDATA[Ali Slagle]]></dc:creator>
+            <category>
+                <![CDATA[ Food & Drink, Life]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19735059</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/07012026_tzr_tzr_152003.jpg?d=1200x630"><br/>These bronzed pork chops are basted with butter, rosemary and shallot, and served with corn plumped in the rendered drippings and browning butter.]]></description>
+                                            </item>
         <item>
             <title>Who can sell ‘6 7’ chicken nuggets? Company is asking court to decide</title>
                         <link>https://www.seattletimes.com/nation-world/who-can-sell-6-7-chicken-huggets-company-is-asking-court-to-decide/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
@@ -401,25 +413,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19713815</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06232026_Whole_grains_and_protein_TZR_tzr_082645.jpg?d=1200x630"><br/>With these sweet-spot foods you get both the protein perks, like muscle maintenance, and the fiber perks, like improved gut health and reduced risks of chronic conditions, all in one bite.]]></description>
                                             </item>
-        <item>
-            <title>$75 caviar-topped tots. A day&#8217;s pay worth of beer. Here&#8217;s the World Cup menu — and prices</title>
-                        <link>https://www.seattletimes.com/business/75-caviar-topped-tots-a-days-pay-worth-of-beer-heres-some-world-cup-menu-and-prices/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
-            <comments>https://www.seattletimes.com/business/75-caviar-topped-tots-a-days-pay-worth-of-beer-heres-some-world-cup-menu-and-prices/#respond</comments>
-            <pubDate>Wed, 24 Jun 2026 06:00:04 -0700</pubDate>
-            <dc:creator><![CDATA[TIM REYNOLDS]]></dc:creator>
-            <category>
-                <![CDATA[ Business, Food & Drink, Life, Nation & World, Sports, World]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19712517</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06232026_World_Cup_concession_food_TZR_tzr_120607.jpg?d=1200x630"><br/>Vancouver offers short rib poutine (an iconic Canadian dish of fries loaded with beef gravy, pulled short rib and cheese curds) along with a maple bacon smokie (sausage topped with bacon onion jam).]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 728/739 objects using Memcached
+Object Caching 115/1544 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-05 04:11:47 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-05 07:21:27 by W3 Total Cache
 -->
