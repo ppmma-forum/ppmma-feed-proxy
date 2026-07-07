@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/life/food-drink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Food &amp; Drink section brings you news about the Seattle restaurant and bar scene such as openings, closings, news about chefs and advice on where to go for a great meal or happy hour. </description>
-	<lastBuildDate>Mon, 06 Jul 2026 07:32:08 -0700</lastBuildDate>
+	<lastBuildDate>Mon, 06 Jul 2026 17:43:51 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>Ditch the heat of the kitchen with this fresh, crunchy seafood salad</title>
+                        <link>https://www.seattletimes.com/life/food-drink/ditch-the-heat-of-the-kitchen-with-this-fresh-crunchy-seafood-salad/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
+            <comments>https://www.seattletimes.com/life/food-drink/ditch-the-heat-of-the-kitchen-with-this-fresh-crunchy-seafood-salad/#respond</comments>
+            <pubDate>Tue, 07 Jul 2026 06:00:00 -0700</pubDate>
+            <dc:creator><![CDATA[Detria Turner]]></dc:creator>
+            <category>
+                <![CDATA[ Food & Drink, Life]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19747182</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07062026_Weeknight-Recipe_tzr_134800.jpg?d=1200x630"><br/>This crab and roasted corn salad packs a slew of vibrant flavors into a chilled, no-fuss format that feels distinctly summer.]]></description>
+                                            </item>
         <item>
             <title>Iceland&#8217;s tourists keep coming. The problem is how fast they leave</title>
                         <link>https://www.seattletimes.com/life/food-drink/icelands-tourists-keep-coming-the-problem-is-how-fast-they-leave/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
@@ -401,25 +413,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19719718</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06242026_tzr_tzr_110456.jpg?d=1200x630"><br/>Popular Seattle pizzeria Stevie’s Famous has finally confirmed its grand opening on Phinney Ridge. The local chain will be expanding to North Seattle this summer.]]></description>
                                             </item>
-        <item>
-            <title>These 2 North Seattle restaurants have great family meal deals</title>
-                        <link>https://www.seattletimes.com/life/food-drink/2-affordable-new-north-seattle-restaurants-to-try-this-summer/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
-            <comments>https://www.seattletimes.com/life/food-drink/2-affordable-new-north-seattle-restaurants-to-try-this-summer/#respond</comments>
-            <pubDate>Wed, 24 Jun 2026 10:00:00 -0700</pubDate>
-            <dc:creator><![CDATA[Jackie Varriano]]></dc:creator>
-            <category>
-                <![CDATA[ Food & Drink, Life]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19713339</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06222026_tzr_tzr_133924.jpg?d=1200x630"><br/>Hoping to find a good value lunch, our food writer Jackie Varriano grabs a big barbecue platter and Middle Eastern bites in this edition of Neighborhood Eats.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 96/1565 objects using Memcached
+Object Caching 374/1192 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-07 04:21:31 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-07 06:27:45 by W3 Total Cache
 -->
