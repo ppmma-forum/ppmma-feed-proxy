@@ -12,7 +12,7 @@
 	<atom:link href="https://www.seattletimes.com/life/food-drink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Food &amp; Drink section brings you news about the Seattle restaurant and bar scene such as openings, closings, news about chefs and advice on where to go for a great meal or happy hour. </description>
-	<lastBuildDate>Wed, 08 Jul 2026 10:10:26 -0700</lastBuildDate>
+	<lastBuildDate>Wed, 08 Jul 2026 11:50:38 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -419,7 +419,7 @@
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 291/1280 objects using Memcached
+Object Caching 73/1571 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-08 10:50:35 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-08 12:21:17 by W3 Total Cache
 -->
