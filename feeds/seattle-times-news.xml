@@ -12,13 +12,37 @@
 	<atom:link href="https://www.seattletimes.com/seattle-news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times Local section covers Seattle, the Eastside, Snohomish County, the Puget Sound region and the Pacific Northwest. Coverage includes breaking news, crime, transportation, politics, education, health and medical, the environment, science and legalized marijuana. Also, columnists Danny Westneat, Jerry Large and Nicole Brodeur, investigative reporting and Times Watchdog coverage.</description>
-	<lastBuildDate>Thu, 09 Jul 2026 16:58:32 -0700</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jul 2026 20:34:51 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
         <item>
-            <title>Cristian Roldan&#8217;s status for Sounders vs. Portland Timbers up in air</title>
+            <title>Tofu vendor delivers much more than healthy food to an east Tokyo neighborhood</title>
+                        <link>https://www.seattletimes.com/seattle-news/health/tofu-vendor-delivers-much-more-than-healthy-food-to-an-east-tokyo-neighborhood/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/health/tofu-vendor-delivers-much-more-than-healthy-food-to-an-east-tokyo-neighborhood/#respond</comments>
+            <pubDate>Thu, 09 Jul 2026 18:06:06 -0700</pubDate>
+            <dc:creator><![CDATA[STEPHEN WADE]]></dc:creator>
+            <category>
+                <![CDATA[ Health]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/tofu-vendor-delivers-much-more-than-healthy-food-to-an-east-tokyo-neighborhood/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org955fdd5da14981b3bff7bbe112ca29edJapan_Tofu_Seller_8174_.jpg?d=1200x630"><br/>Akiko Sugaya wheels a cart through the alley-like streets of eastern Tokyo selling tofu, the protein-rich staple favored in much of Asia.]]></description>
+                                            </item>
+        <item>
+            <title>Man shot by Federal Way police was reportedly holding &#8216;realistic&#8217; BB gun</title>
+                        <link>https://www.seattletimes.com/seattle-news/law-justice/man-shot-by-federal-way-police-was-reportedly-holding-realistic-bb-gun/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/law-justice/man-shot-by-federal-way-police-was-reportedly-holding-realistic-bb-gun/#respond</comments>
+            <pubDate>Thu, 09 Jul 2026 17:06:02 -0700</pubDate>
+            <dc:creator><![CDATA[Lauren Girgis]]></dc:creator>
+            <category>
+                <![CDATA[ Law & Justice, Local News]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19767244</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06262026_tzr_tzr_142205.jpg?d=1200x630"><br/>The 19-year-old man, who remains at Harborview Medical Center in critical condition, was shot by three officers on June 24.]]></description>
+                                            </item>
+        <item>
+            <title>Cristian Roldan not expected back for Sounders until after Portland match</title>
                         <link>https://www.seattletimes.com/sports/sounders/cristian-roldans-status-for-sounders-vs-portland-timbers-up-in-air/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
             <comments>https://www.seattletimes.com/sports/sounders/cristian-roldans-status-for-sounders-vs-portland-timbers-up-in-air/#respond</comments>
             <pubDate>Thu, 09 Jul 2026 16:51:12 -0700</pubDate>
@@ -198,7 +222,7 @@
                 <![CDATA[ Business, Climate Lab, Local News, Microsoft, Northwest]]>
             </category>
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19763968</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07082026_tzr_tzr_165745.jpg?d=1200x630"><br/>The Redmond-based tech giant reported 21 million metric tons of greenhouse gas emissions in fiscal year 2025, a roughly 27% increase from the previous year.]]></description>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07082026_tzr_tzr_165745.jpg?d=1200x630"><br/>The Redmond-based tech giant reported 21 million metric tons of greenhouse gas emissions in fiscal year 2025, up roughly 27% from the previous year.]]></description>
                                             </item>
         <item>
             <title>Suspected Ebola patient placed in hotel with deportees from US, lawyers say</title>
@@ -237,7 +261,7 @@
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.orgcc7df1578871c4c6eec217dc2eccc594Hungary_Murder_Conviction_51634.jpg?d=1200x630"><br/>A Hungarian court has sentenced an Irish citizen to 14 years in prison for murdering an American tourist in Budapest in 2024.]]></description>
                                             </item>
         <item>
-            <title>Light rail breakdown in North Seattle continues</title>
+            <title>Light rail power line damage disturbs Sound Transit&#8217;s summer mojo</title>
                         <link>https://www.seattletimes.com/seattle-news/light-rail-service-on-1-line-and-2-line-suspended-for-power-issues/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
             <comments>https://www.seattletimes.com/seattle-news/light-rail-service-on-1-line-and-2-line-suspended-for-power-issues/#respond</comments>
             <pubDate>Thu, 09 Jul 2026 07:16:38 -0700</pubDate>
@@ -246,7 +270,8 @@
                 <![CDATA[ Eastside, Local News, Puget Sound, Traffic Lab]]>
             </category>
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19765548</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07092026_tzr_tzr_142459.jpg?d=1200x630"><br/>Shuttle buses have been brought in as Sound Transit says it will take hours more to restore full train service.]]></description>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07092026_tzr_tzr_142459.jpg?d=1200x630"><br/>Thursday's blockage at UW Station snapped a winning streak of mostly-reliable light rail operations so far in 2026.
+]]></description>
                                             </item>
         <item>
             <title>What WA’s representatives put in a time capsule for 2276</title>
@@ -392,37 +417,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/news/bonnie-tyler-who-topped-the-charts-with-epic-total-eclipse-of-the-heart-has-died-at-75/</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07092026_tyler_tzr_045551.jpg?d=1200x630"><br/>Bonnie Tyler, the gravelly voiced Welsh pop star known for “Total Eclipse of the Heart,” has died at 75.]]></description>
                                             </item>
-        <item>
-            <title>An Italian region defies US pressure to end a Cuban doctors program</title>
-                        <link>https://www.seattletimes.com/seattle-news/health/an-italian-region-defies-us-pressure-to-end-a-cuban-doctors-program/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/health/an-italian-region-defies-us-pressure-to-end-a-cuban-doctors-program/#respond</comments>
-            <pubDate>Wed, 08 Jul 2026 21:19:05 -0700</pubDate>
-            <dc:creator><![CDATA[PAOLO SANTALUCIA]]></dc:creator>
-            <category>
-                <![CDATA[ Health]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/an-italian-region-defies-us-pressure-to-end-a-cuban-doctors-program/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org7e8fcedd47194236986b402c68f0e5feItaly_Cuban_Doctors_38844.jpg?d=1200x630"><br/>Cuban doctors are working in hospitals in Italy's Calabria region under a long-running program despite U.S. efforts to end it.]]></description>
-                                            </item>
-        <item>
-            <title>Escaping the Chelan Hills fire: &#8216;Hell is here knocking at your door&#8217;</title>
-                        <link>https://www.seattletimes.com/seattle-news/environment/escaping-the-chelan-hills-fire-hell-is-here-knocking-at-your-door/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/environment/escaping-the-chelan-hills-fire-hell-is-here-knocking-at-your-door/#respond</comments>
-            <pubDate>Wed, 08 Jul 2026 20:56:33 -0700</pubDate>
-            <dc:creator><![CDATA[Catalina Gaitán]]></dc:creator>
-            <category>
-                <![CDATA[ Environment, Local News]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19762898</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07082026_tzr_tzr_170516.jpg?d=1200x630"><br/>The Chelan Hills wildfire – propelled by hot, fierce winds – had killed at least one person and destroyed about 75% of the structures in its path by Tuesday.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 541/1130 objects using Memcached
+Object Caching 529/1149 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-09 16:59:02 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-09 20:35:07 by W3 Total Cache
 -->

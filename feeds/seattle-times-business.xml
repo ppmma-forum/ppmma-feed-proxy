@@ -12,7 +12,7 @@
 	<atom:link href="https://www.seattletimes.com/business/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times business section covers Seattle, the Eastside including Bellevue, Snohomish County, the Puget Sound region and Pacific Northwest. Coverage includes Amazon; Boeing and aerospace; Microsoft and technology; Starbucks, Nordstrom and retail; the state and U.S. economy, commercial and residential real estate; personal finances; and stock markets. Columnist Jonathan Talton is featured.</description>
-	<lastBuildDate>Thu, 09 Jul 2026 16:58:32 -0700</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jul 2026 19:53:30 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -75,7 +75,7 @@
                 <![CDATA[ Business, Nation]]>
             </category>
             <guid isPermaLink="false">https://www.seattletimes.com/news/ex-epoch-times-cfo-pleads-guilty-in-67m-multinational-money-laundering-scheme/</guid>
-            <description><![CDATA[<img src="https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"><br/>The former chief financial officer of The Epoch Times, a conservative multinational media company, interrupted jury selection at his money laundering trial to plead guilty to conspiracy.]]></description>
+            <description><![CDATA[<img src="https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"><br/>The former chief financial officer of the conservative multinational media company The Epoch Times has pleaded guilty to conspiracy.]]></description>
                                             </item>
         <item>
             <title>As consumers pare spending, grocery stores race to cut prices</title>
@@ -195,7 +195,7 @@
                 <![CDATA[ Business, Climate Lab, Local News, Microsoft, Northwest]]>
             </category>
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19763968</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07082026_tzr_tzr_165745.jpg?d=1200x630"><br/>The Redmond-based tech giant reported 21 million metric tons of greenhouse gas emissions in fiscal year 2025, a roughly 27% increase from the previous year.]]></description>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07082026_tzr_tzr_165745.jpg?d=1200x630"><br/>The Redmond-based tech giant reported 21 million metric tons of greenhouse gas emissions in fiscal year 2025, up roughly 27% from the previous year.]]></description>
                                             </item>
         <item>
             <title>AI notetakers promise easy meeting recaps, but some professionals question their use</title>
@@ -443,7 +443,7 @@
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 104/1542 objects using Memcached
+Object Caching 714/725 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-09 16:58:44 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-09 20:31:05 by W3 Total Cache
 -->
