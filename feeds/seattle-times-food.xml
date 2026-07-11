@@ -12,7 +12,7 @@
 	<atom:link href="https://www.seattletimes.com/life/food-drink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Food &amp; Drink section brings you news about the Seattle restaurant and bar scene such as openings, closings, news about chefs and advice on where to go for a great meal or happy hour. </description>
-	<lastBuildDate>Fri, 10 Jul 2026 13:17:00 -0700</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jul 2026 16:52:40 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -27,7 +27,7 @@
                 <![CDATA[ Entertainment, Food & Drink, Life, TV/Streaming]]>
             </category>
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19749491</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07032026_tzr_tzr_145533.jpg?d=1200x630"><br/>“Pitmasters,” which premieres Monday on Food Network and streams next day on HBO Max, will feature the team behind Tacoma restaurant Grann.]]></description>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07032026_tzr_tzr_145533.jpg?d=1200x630"><br/>“Pitmasters,” which premieres Monday on Food Network and streams next day on HBO Max, will feature the team behind Tacoma’s Grann.]]></description>
                                             </item>
         <item>
             <title>Seattle’s Joyale, Chinatown ID dim sum classic, ends weekday service</title>
@@ -407,7 +407,7 @@
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 142/1524 objects using Memcached
+Object Caching 713/724 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-10 16:52:00 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-11 05:59:50 by W3 Total Cache
 -->
