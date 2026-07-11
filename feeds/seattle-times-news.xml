@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/seattle-news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times Local section covers Seattle, the Eastside, Snohomish County, the Puget Sound region and the Pacific Northwest. Coverage includes breaking news, crime, transportation, politics, education, health and medical, the environment, science and legalized marijuana. Also, columnists Danny Westneat, Jerry Large and Nicole Brodeur, investigative reporting and Times Watchdog coverage.</description>
-	<lastBuildDate>Sat, 11 Jul 2026 11:10:36 -0700</lastBuildDate>
+	<lastBuildDate>Sat, 11 Jul 2026 14:29:24 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>Guggenheim Museum among NYC buildings that tested positive for Legionnaires’ amid disease outbreak</title>
+                        <link>https://www.seattletimes.com/entertainment/guggenheim-museum-among-nyc-buildings-that-tested-positive-for-legionnaires-amid-disease-outbreak/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/entertainment/guggenheim-museum-among-nyc-buildings-that-tested-positive-for-legionnaires-amid-disease-outbreak/#respond</comments>
+            <pubDate>Sat, 11 Jul 2026 12:56:09 -0700</pubDate>
+            <dc:creator><![CDATA[PHILIP MARCELO]]></dc:creator>
+            <category>
+                <![CDATA[ Entertainment, Health, Nation]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/guggenheim-museum-among-nyc-buildings-that-tested-positive-for-legionnaires-amid-disease-outbreak/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org38b590798da80724f3ab9427c737ebe7Legionnaires_Outbreak_NYC_84824.jpg?d=1200x630"><br/>The Guggenheim Museum was among a number of Manhattan buildings that recently tested positive for the bacteria that causes Legionnaires’ disease amid the city’s latest outbreak.]]></description>
+                                            </item>
         <item>
             <title>U.S. citizen tests positive for Ebola in Congo</title>
                         <link>https://www.seattletimes.com/seattle-news/health/us-citizen-tests-positive-for-ebola-in-congo/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
@@ -120,10 +132,10 @@
             <pubDate>Sat, 11 Jul 2026 05:26:12 -0700</pubDate>
             <dc:creator><![CDATA[BECKY BOHRER]]></dc:creator>
             <category>
-                <![CDATA[ Nation & World, Northwest]]>
+                <![CDATA[ Nation & World, Nation & World Politics, Northwest]]>
             </category>
             <guid isPermaLink="false">https://www.seattletimes.com/news/to-the-gop-hes-a-sham-candidate-at-home-hes-mr-sullivan-ex-teacher-and-alaska-senate-hopeful/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org388a4e7f2baf7cbeec53fdf6b7a234d6Election_2_26_Alaska_835_2.jpg?d=1200x630"><br/>Many longtime residents of the small Alaska fishing community of Petersburg say they opposed efforts by the state to keep a local man named Dan Sullivan from running in this year's U.S. Senate race, even if they're not voting for him.]]></description>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org388a4e7f2baf7cbeec53fdf6b7a234d6Election_2_26_Alaska_835_2.jpg?d=1200x630"><br/>A top state elections official booted Dan J. Sullivan from the ballot. The Alaska Supreme Court later ordered that he be included.]]></description>
                                             </item>
         <item>
             <title>Man, dog die in fire near Monroe</title>
@@ -416,25 +428,13 @@
 
 ]]></description>
                                             </item>
-        <item>
-            <title>Fremont and West Seattle libraries to close for renovations</title>
-                        <link>https://www.seattletimes.com/seattle-news/fremont-and-west-seattle-libraries-to-close-for-renovations/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/fremont-and-west-seattle-libraries-to-close-for-renovations/#respond</comments>
-            <pubDate>Thu, 09 Jul 2026 15:20:38 -0700</pubDate>
-            <dc:creator><![CDATA[Ann Duan]]></dc:creator>
-            <category>
-                <![CDATA[ Local News]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19766147</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07092026_tzr_tzr_123151.jpg?d=1200x630"><br/>The Seattle Public Library's Fremont and West Seattle branches will close for renovations from Aug. 9 until early November. ]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 799/810 objects using Memcached
+Object Caching 575/1137 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-11 11:25:54 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-11 14:38:02 by W3 Total Cache
 -->
