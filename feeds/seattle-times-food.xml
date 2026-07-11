@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/life/food-drink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Food &amp; Drink section brings you news about the Seattle restaurant and bar scene such as openings, closings, news about chefs and advice on where to go for a great meal or happy hour. </description>
-	<lastBuildDate>Fri, 10 Jul 2026 16:52:40 -0700</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jul 2026 17:23:00 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>‘Budd’ Gould, founder of PNW’s Anthony’s Restaurants, dies at 85</title>
+                        <link>https://www.seattletimes.com/life/food-drink/budd-gould-founder-of-pnws-anthonys-restaurants-dies-at-85/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
+            <comments>https://www.seattletimes.com/life/food-drink/budd-gould-founder-of-pnws-anthonys-restaurants-dies-at-85/#respond</comments>
+            <pubDate>Sat, 11 Jul 2026 06:00:00 -0700</pubDate>
+            <dc:creator><![CDATA[Bethany Jean Clement]]></dc:creator>
+            <category>
+                <![CDATA[ Business, Food & Drink, Life, Local Business, Local News, Obituaries]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19763959</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07082026_TZR_Budd_Gould-1989-MS_tzr_174647.jpg?d=1200x630"><br/>Herbert “Budd” Milton Gould III was born in Seattle in 1940, opened his first restaurant in Bellevue in 1973 and went on to found the sprawling Anthony’s brand.]]></description>
+                                            </item>
         <item>
             <title>Food Network’s ‘Pitmasters’ features contestants from Tacoma’s Grann</title>
                         <link>https://www.seattletimes.com/entertainment/tv/food-networks-pitmasters-features-contestants-from-tacomas-grann/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
@@ -389,25 +401,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/news/americans-are-spending-billions-on-wine-trips-and-2026s-most-surprising-vineyards-are-nowhere-near-napa/</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.org3ac3832630fcc2dc19eb8327653f0c3dWine-tasting-group_1600x900.jpg?d=1200x630"><br/>The picture most people carry of a wine trip is fixed: rolling rows in Napa or Sonoma, a cellar in Bordeaux, a Tuscan hillside at golden hour. It is a lovely picture, but it is increasingly out of date. Americans are pouring billions into wine travel, and a growing share of that money is leaving [&hellip;]]]></description>
                                             </item>
-        <item>
-            <title>Ancient Nordic therapies are driving a global wellness travel surge, and the draw is everything modern spa culture is not</title>
-                        <link>https://www.seattletimes.com/life/food-drink/ancient-nordic-therapies-are-driving-a-global-wellness-travel-surge-and-the-draw-is-everything-modern-spa-culture-is-not/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
-            <comments>https://www.seattletimes.com/life/food-drink/ancient-nordic-therapies-are-driving-a-global-wellness-travel-surge-and-the-draw-is-everything-modern-spa-culture-is-not/#respond</comments>
-            <pubDate>Mon, 29 Jun 2026 07:07:04 -0700</pubDate>
-            <dc:creator><![CDATA[Jennifer Allen]]></dc:creator>
-            <category>
-                <![CDATA[ Food & Drink]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/ancient-nordic-therapies-are-driving-a-global-wellness-travel-surge-and-the-draw-is-everything-modern-spa-culture-is-not/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.org21bc92fccbe522f99a5fc2dc55b72c86Kananaskis-Nordic-Spa-Photo-credit_-Jenn-Allen_1600x900.jpg?d=1200x630"><br/>Sauna bathing and cold plunging have roots that trace back thousands of years in Northern Europe. Nordic communities did not invent these rituals as wellness products; they built them into daily life, and because the landscape demanded it. Now, travelers chase them across continents, from volcanic Iceland to the Austrian Alps to the Canadian Rockies, [&hellip;]]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 713/724 objects using Memcached
+Object Caching 341/1214 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-11 05:59:50 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-11 11:22:56 by W3 Total Cache
 -->
