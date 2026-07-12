@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/business/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times business section covers Seattle, the Eastside including Bellevue, Snohomish County, the Puget Sound region and Pacific Northwest. Coverage includes Amazon; Boeing and aerospace; Microsoft and technology; Starbucks, Nordstrom and retail; the state and U.S. economy, commercial and residential real estate; personal finances; and stock markets. Columnist Jonathan Talton is featured.</description>
-	<lastBuildDate>Sat, 11 Jul 2026 22:07:25 -0700</lastBuildDate>
+	<lastBuildDate>Sun, 12 Jul 2026 03:24:26 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>Volkswagen CEO looks to avoid plant closures as automaker moves to cut costs</title>
+                        <link>https://www.seattletimes.com/business/volkswagen-ceo-looks-to-avoid-plant-closures-as-automaker-moves-to-cut-costs/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_business</link>
+            <comments>https://www.seattletimes.com/business/volkswagen-ceo-looks-to-avoid-plant-closures-as-automaker-moves-to-cut-costs/#respond</comments>
+            <pubDate>Sun, 12 Jul 2026 01:08:10 -0700</pubDate>
+            <dc:creator><![CDATA[The Associated Press]]></dc:creator>
+            <category>
+                <![CDATA[ Business]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/volkswagen-ceo-looks-to-avoid-plant-closures-as-automaker-moves-to-cut-costs/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org5fe906aacf3d47f5720e3f540e985571Germany_Volkswagen_71252.jpg?d=1200x630"><br/>Volkswagen’s CEO has indicated that he’s trying to avoid closing plants as he seeks to turn around the automaker’s performance.]]></description>
+                                            </item>
         <item>
             <title>Focus turns to building stronger institutions in Africa to speed shift to renewable energy</title>
                         <link>https://www.seattletimes.com/business/focus-turns-to-building-stronger-institutions-in-africa-to-speed-shift-to-renewable-energy/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_business</link>
@@ -425,25 +437,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/news/eu-demands-facebook-and-instagram-dismantle-design-features-it-calls-addictive-for-users/</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.orgeef2f173956e37183a39f13790bca96bSocial_Media_Kids_Ohio_99491.jpg?d=1200x630"><br/>The European Union is accusing Meta of breaching social media laws by designing Facebook and Instagram to be addictive.]]></description>
                                             </item>
-        <item>
-            <title>New York construction scare highlights the challenges of converting offices into housing</title>
-                        <link>https://www.seattletimes.com/business/new-york-construction-scare-highlights-the-challenges-of-converting-offices-into-housing/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_business</link>
-            <comments>https://www.seattletimes.com/business/new-york-construction-scare-highlights-the-challenges-of-converting-offices-into-housing/#respond</comments>
-            <pubDate>Fri, 10 Jul 2026 03:03:13 -0700</pubDate>
-            <dc:creator><![CDATA[R.J. RICO, JESSICA HILL and PHILIP MARCELO]]></dc:creator>
-            <category>
-                <![CDATA[ Business, Nation, Real Estate]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/new-york-construction-scare-highlights-the-challenges-of-converting-offices-into-housing/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07102026_NYtower_tzr_081840.jpg?d=1200x630"><br/>The buckling of two steel columns at the former Pfizer headquarters has raised questions about one of the nation’s largest office-to-apartment conversions.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 607/988 objects using Memcached
+Object Caching 568/1042 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-12 00:38:35 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-12 04:02:16 by W3 Total Cache
 -->

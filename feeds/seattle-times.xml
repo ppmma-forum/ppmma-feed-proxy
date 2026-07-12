@@ -12,22 +12,70 @@
 	<atom:link href="https://www.seattletimes.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>Local news, sports, business, politics, entertainment, travel, restaurants and opinion for Seattle and the Pacific Northwest.</description>
-	<lastBuildDate>Sat, 11 Jul 2026 23:56:29 -0700</lastBuildDate>
+	<lastBuildDate>Sun, 12 Jul 2026 03:34:22 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
         <item>
-            <title>US Senator Lindsey Graham has died after a brief and unexpected illness, his office says</title>
+            <title>Lindsey Graham draws tributes for his support of Ukraine, trans-Atlantic ties and Israel</title>
+                        <link>https://www.seattletimes.com/nation-world/nation-politics/lindsey-graham-draws-tributes-for-his-support-of-ukraine-trans-atlantic-ties-and-israel/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
+            <comments>https://www.seattletimes.com/nation-world/nation-politics/lindsey-graham-draws-tributes-for-his-support-of-ukraine-trans-atlantic-ties-and-israel/#respond</comments>
+            <pubDate>Sun, 12 Jul 2026 02:21:13 -0700</pubDate>
+            <dc:creator><![CDATA[GEIR MOULSON]]></dc:creator>
+            <category>
+                <![CDATA[ Nation & World Politics]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/lindsey-graham-draws-tributes-for-his-support-of-ukraine-trans-atlantic-ties-and-israel/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org30c9758bfc124c30e8e4db0e4dd719e2Lindsey_Graham_Dies_95981.jpg?d=1200x630"><br/>Leaders of NATO allies, Ukraine and Israel have paid tribute to U.S. Sen. Lindsey Graham as a friend and advocate of trans-Atlantic ties.]]></description>
+                                            </item>
+        <item>
+            <title>Ukrainian attacks on Russia kill 1 as Kyiv continues to target oil tankers and refineries</title>
+                        <link>https://www.seattletimes.com/nation-world/world/ukrainian-attacks-on-russia-kill-1-as-kyiv-continues-to-target-oil-tankers-and-refineries/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
+            <comments>https://www.seattletimes.com/nation-world/world/ukrainian-attacks-on-russia-kill-1-as-kyiv-continues-to-target-oil-tankers-and-refineries/#respond</comments>
+            <pubDate>Sun, 12 Jul 2026 01:52:11 -0700</pubDate>
+            <dc:creator><![CDATA[The Associated Press]]></dc:creator>
+            <category>
+                <![CDATA[ World]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/ukrainian-attacks-on-russia-kill-1-as-kyiv-continues-to-target-oil-tankers-and-refineries/</guid>
+            <description><![CDATA[<img src="https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"><br/>A Ukrainian attack in southwest Russia killed one person and wounded three more, local officials said Sunday, as Kyiv’s forces continued to bombard Russia’s oil facilities.]]></description>
+                                            </item>
+        <item>
+            <title>Volkswagen CEO looks to avoid plant closures as automaker moves to cut costs</title>
+                        <link>https://www.seattletimes.com/business/volkswagen-ceo-looks-to-avoid-plant-closures-as-automaker-moves-to-cut-costs/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
+            <comments>https://www.seattletimes.com/business/volkswagen-ceo-looks-to-avoid-plant-closures-as-automaker-moves-to-cut-costs/#respond</comments>
+            <pubDate>Sun, 12 Jul 2026 01:08:10 -0700</pubDate>
+            <dc:creator><![CDATA[The Associated Press]]></dc:creator>
+            <category>
+                <![CDATA[ Business]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/volkswagen-ceo-looks-to-avoid-plant-closures-as-automaker-moves-to-cut-costs/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org5fe906aacf3d47f5720e3f540e985571Germany_Volkswagen_71252.jpg?d=1200x630"><br/>Volkswagen’s CEO has indicated that he’s trying to avoid closing plants as he seeks to turn around the automaker’s performance.]]></description>
+                                            </item>
+        <item>
+            <title>Vietnam police detain captain after speedboat capsizing kills 15 Indian tourists</title>
+                        <link>https://www.seattletimes.com/nation-world/2-indian-tourists-are-in-critical-condition-after-vietnam-boat-capsizes-killing-15/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
+            <comments>https://www.seattletimes.com/nation-world/2-indian-tourists-are-in-critical-condition-after-vietnam-boat-capsizes-killing-15/#respond</comments>
+            <pubDate>Sun, 12 Jul 2026 00:37:15 -0700</pubDate>
+            <dc:creator><![CDATA[ANIRUDDHA GHOSAL]]></dc:creator>
+            <category>
+                <![CDATA[ Nation & World]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/2-indian-tourists-are-in-critical-condition-after-vietnam-boat-capsizes-killing-15/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org966811c42ef3038ba4084391e2d83d37Vietnam_Tourist_Boat_812_6.jpg?d=1200x630"><br/>Vietnamese police have detained the captain of a speedboat that capsized off southern Vietnam, killing 15 Indian tourists.]]></description>
+                                            </item>
+        <item>
+            <title>US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says</title>
                         <link>https://www.seattletimes.com/nation-world/nation/us-senator-lindsey-graham-has-died-after-a-brief-and-unexpected-illness-his-office-says/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
             <comments>https://www.seattletimes.com/nation-world/nation/us-senator-lindsey-graham-has-died-after-a-brief-and-unexpected-illness-his-office-says/#respond</comments>
             <pubDate>Sat, 11 Jul 2026 23:42:04 -0700</pubDate>
-            <dc:creator><![CDATA[The Associated Press]]></dc:creator>
+            <dc:creator><![CDATA[Seung-Min Kim]]></dc:creator>
             <category>
                 <![CDATA[ Nation, Nation & World]]>
             </category>
             <guid isPermaLink="false">https://www.seattletimes.com/news/us-senator-lindsey-graham-has-died-after-a-brief-and-unexpected-illness-his-office-says/</guid>
-            <description><![CDATA[<img src="https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"><br/>U.S. Senator Lindsey Graham died Saturday after a brief and unexpected illness, his office said in statement posted on social media.]]></description>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.orgbfa556e170f2df22ce9ffc7165da3dfaLindsey_Graham_Dies_31875.jpg?d=1200x630"><br/>U.S. Sen. Lindsey Graham, a close ally of President Donald Trump, has died at 71 after a brief illness, according to his office.]]></description>
                                             </item>
         <item>
             <title>Byungho Lee wins 124th PNGA Men’s Amateur Championship</title>
@@ -66,7 +114,7 @@
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org290f6f3dd0a6f4b71d5d1e280a41e060Africa-Clean-Energy-Funding_93679.jpg?d=1200x630"><br/>Africa’s renewable energy transition is entering a new phase as the continent shifts from proving that clean energy works to building the institutions needed to deploy it at scale.]]></description>
                                             </item>
         <item>
-            <title>US, UK and 12 other nations reaffirm 2016 ruling invalidating China&#8217;s claims in South China Sea</title>
+            <title>14 nations and the EU reaffirm 2016 ruling invalidating China&#8217;s claims in South China Sea</title>
                         <link>https://www.seattletimes.com/nation-world/us-uk-and-12-other-nations-reaffirm-2016-ruling-invalidating-chinas-claims-in-south-china-sea/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
             <comments>https://www.seattletimes.com/nation-world/us-uk-and-12-other-nations-reaffirm-2016-ruling-invalidating-chinas-claims-in-south-china-sea/#respond</comments>
             <pubDate>Sat, 11 Jul 2026 21:40:14 -0700</pubDate>
@@ -75,7 +123,7 @@
                 <![CDATA[ Nation & World]]>
             </category>
             <guid isPermaLink="false">https://www.seattletimes.com/news/us-uk-and-12-other-nations-reaffirm-2016-ruling-invalidating-chinas-claims-in-south-china-sea/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org6ca48fecb19b61901b05a3f86f70be54Philippines_China_Territorial_Disputes_48894.jpg?d=1200x630"><br/>The United States, United Kingdom and a dozen other Western and Asian countries have reasserted that China’s expansive claims in the South China Sea are illegal.]]></description>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org6ca48fecb19b61901b05a3f86f70be54Philippines_China_Territorial_Disputes_48894.jpg?d=1200x630"><br/>The United States, the United Kingdom and a dozen other Western and Asian countries have reasserted that China’s expansive claims in the South China Sea are illegal.]]></description>
                                             </item>
         <item>
             <title>Typhoon Bavi weakens but brings strong winds and rain to China as more than 2 million evacuated</title>
@@ -377,61 +425,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19770848</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.orgd4839e677ca60d26ef0bb61eb79c2446Senegal_Norway_WCup_Soccer_53368-copy.jpg?d=1200x630"><br/>Erling Haaland has become a social media sensation during the World Cup.]]></description>
                                             </item>
-        <item>
-            <title>Democratic congressman says he was detained by the Israeli military and settlers in the West Bank</title>
-                        <link>https://www.seattletimes.com/nation-world/nation/democratic-congressman-says-he-was-detained-by-the-israeli-military-and-settlers-in-the-west-bank/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
-            <comments>https://www.seattletimes.com/nation-world/nation/democratic-congressman-says-he-was-detained-by-the-israeli-military-and-settlers-in-the-west-bank/#respond</comments>
-            <pubDate>Sat, 11 Jul 2026 12:01:07 -0700</pubDate>
-            <dc:creator><![CDATA[NICHOLAS RICCARDI]]></dc:creator>
-            <category>
-                <![CDATA[ Nation]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/democratic-congressman-says-he-was-detained-by-the-israeli-military-and-settlers-in-the-west-bank/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org59c6233f5b8935a62fd87b90696e6821Mideast_Wars-West_Bank-Khanna_364_8.jpg?d=1200x630"><br/>A congressman says he was detained by Israeli settlers and then the Israeli military as he toured the West Bank.]]></description>
-                                            </item>
-        <item>
-            <title>Mariners prospect Michael Arroyo off to scorching start in Triple-A</title>
-                        <link>https://www.seattletimes.com/sports/mariners/mariners-prospect-michael-arroyo-off-to-scorching-start-in-triple-a/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
-            <comments>https://www.seattletimes.com/sports/mariners/mariners-prospect-michael-arroyo-off-to-scorching-start-in-triple-a/#respond</comments>
-            <pubDate>Sat, 11 Jul 2026 10:36:47 -0700</pubDate>
-            <dc:creator><![CDATA[Adam Jude]]></dc:creator>
-            <category>
-                <![CDATA[ Mariners, Sports]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19767399</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/02/02202026_TZR_Mariners_Padres-02202026_tzr_182551.jpg?d=1200x630"><br/>Michael Arroyo had a stellar first week in Triple-A with the Tacoma Rainiers, homering twice among seven hits in his first 18 at-bats.]]></description>
-                                            </item>
-        <item>
-            <title>Judge tosses remnants of Proud Boys seditious conspiracy case after Trump&#8217;s broad clemency</title>
-                        <link>https://www.seattletimes.com/nation-world/nation/judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trumps-broad-clemency/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
-            <comments>https://www.seattletimes.com/nation-world/nation/judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trumps-broad-clemency/#respond</comments>
-            <pubDate>Sat, 11 Jul 2026 10:21:13 -0700</pubDate>
-            <dc:creator><![CDATA[MICHAEL KUNZELMAN and ALANNA DURKIN RICHER]]></dc:creator>
-            <category>
-                <![CDATA[ Nation]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/judge-tosses-remnants-of-proud-boys-seditious-conspiracy-case-after-trumps-broad-clemency/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org7d42b851aab9e2c35153985535af22eeCapitol_Riot_Seditious_Conspiracy_27597.jpg?d=1200x630"><br/>A federal judge has dismissed the remnants of the government’s landmark case against far-right Proud Boys members who were convicted of seditious conspiracy.]]></description>
-                                            </item>
-        <item>
-            <title>Trump suggests a standing order to attack Iran if it assassinates him. But Vance would make the call</title>
-                        <link>https://www.seattletimes.com/nation-world/nation/trump-suggests-a-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_all</link>
-            <comments>https://www.seattletimes.com/nation-world/nation/trump-suggests-a-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call/#respond</comments>
-            <pubDate>Sat, 11 Jul 2026 09:49:10 -0700</pubDate>
-            <dc:creator><![CDATA[WILL WEISSERT]]></dc:creator>
-            <category>
-                <![CDATA[ Nation]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/trump-suggests-a-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org8d8e3abb499d4349ac55f91df9089f86Iran_Khamenei_Funeral_3_87.jpg?d=1200x630"><br/>President Donald Trump says he's ordered the U.S. military to destroy Iran if he were to be assassinated.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 693/862 objects using Memcached
+Object Caching 737/748 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-11 23:59:39 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-12 04:00:01 by W3 Total Cache
 -->
