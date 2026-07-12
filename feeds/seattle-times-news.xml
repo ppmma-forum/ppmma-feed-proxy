@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/seattle-news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times Local section covers Seattle, the Eastside, Snohomish County, the Puget Sound region and the Pacific Northwest. Coverage includes breaking news, crime, transportation, politics, education, health and medical, the environment, science and legalized marijuana. Also, columnists Danny Westneat, Jerry Large and Nicole Brodeur, investigative reporting and Times Watchdog coverage.</description>
-	<lastBuildDate>Sun, 12 Jul 2026 06:55:18 -0700</lastBuildDate>
+	<lastBuildDate>Sun, 12 Jul 2026 11:44:18 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>A bird’s brain holds clues to the sounds of music</title>
+                        <link>https://www.seattletimes.com/nation-world/a-birds-brain-holds-clues-to-the-sounds-of-music/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/nation-world/a-birds-brain-holds-clues-to-the-sounds-of-music/#respond</comments>
+            <pubDate>Sun, 12 Jul 2026 10:00:02 -0700</pubDate>
+            <dc:creator><![CDATA[JIM ROBBINS]]></dc:creator>
+            <category>
+                <![CDATA[ Nation & World, Science]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19756785</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07082026_birds-tzr_tzr_160324.jpg?d=1200x630"><br/>The neurobiologist Erich Jarvis studies the few species capable of speech. He has long hoped to genetically engineer an animal that can make new calls.]]></description>
+                                            </item>
         <item>
             <title>WA&#8217;s Big Four&#8217;s Ice Caves could melt away for first time in memory</title>
                         <link>https://www.seattletimes.com/seattle-news/climate-lab/scientists-eye-big-fours-ice-caves-as-they-could-melt-away-for-first-time-in-memory/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
@@ -413,25 +425,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/news/china-takes-a-page-from-spacex-and-recaptures-the-first-stage-of-a-rocket-to-reuse-it/</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org6d695fcad64a101dc3991c1bfa0e7357China_Space_332_7.jpg?d=1200x630"><br/>China has successfully recaptured the first stage of a rocket after a launch, marking a breakthrough for its space program.]]></description>
                                             </item>
-        <item>
-            <title>Judge: WA can do health inspections at Tacoma detention center</title>
-                        <link>https://www.seattletimes.com/seattle-news/judge-wa-can-do-health-inspections-at-tacoma-detention-center/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/seattle-news/judge-wa-can-do-health-inspections-at-tacoma-detention-center/#respond</comments>
-            <pubDate>Thu, 09 Jul 2026 21:12:46 -0700</pubDate>
-            <dc:creator><![CDATA[Savannah Butcher]]></dc:creator>
-            <category>
-                <![CDATA[ Health, Law & Justice, Local News]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19767566</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07092026_tzr_tzr_183310.jpg?d=1200x630"><br/>The Northwest's largest ICE processing center in Tacoma has received over 3,500 complaints and prevented health inspections from the state.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 587/1118 objects using Memcached
+Object Caching 281/1545 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-12 07:01:23 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-12 11:51:00 by W3 Total Cache
 -->
