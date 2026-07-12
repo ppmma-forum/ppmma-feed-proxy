@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/seattle-news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times Local section covers Seattle, the Eastside, Snohomish County, the Puget Sound region and the Pacific Northwest. Coverage includes breaking news, crime, transportation, politics, education, health and medical, the environment, science and legalized marijuana. Also, columnists Danny Westneat, Jerry Large and Nicole Brodeur, investigative reporting and Times Watchdog coverage.</description>
-	<lastBuildDate>Sun, 12 Jul 2026 12:56:39 -0700</lastBuildDate>
+	<lastBuildDate>Sun, 12 Jul 2026 14:04:30 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>This star just ate a planet, and it’s not done yet</title>
+                        <link>https://www.seattletimes.com/seattle-news/science/this-star-just-ate-a-planet-and-its-not-done-yet/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/seattle-news/science/this-star-just-ate-a-planet-and-its-not-done-yet/#respond</comments>
+            <pubDate>Sun, 12 Jul 2026 13:00:02 -0700</pubDate>
+            <dc:creator><![CDATA[Becky Ferreira]]></dc:creator>
+            <category>
+                <![CDATA[ Science]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19767295</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07102026_star-tzr_tzr_144739.jpg?d=1200x630"><br/>A star 1,300 light-years away appears to have just consumed one world and is gearing up for seconds.]]></description>
+                                            </item>
         <item>
             <title>A bird’s brain holds clues to the sounds of music</title>
                         <link>https://www.seattletimes.com/nation-world/a-birds-brain-holds-clues-to-the-sounds-of-music/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
@@ -413,25 +425,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/news/epa-promised-a-make-america-healthy-again-agenda-it-has-yet-to-materialize-frustrating-activists/</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07102026_MAHA_tzr_055220.jpg?d=1200x630"><br/>Some in the MAHA movement say they've lost faith that the Trump administration will take any significant action on pesticides, chemicals or other issues.]]></description>
                                             </item>
-        <item>
-            <title>China takes a page from SpaceX and recaptures the first stage of a rocket to reuse it</title>
-                        <link>https://www.seattletimes.com/nation-world/china-takes-a-page-from-spacex-and-recaptures-the-first-stage-of-a-rocket-to-reuse-it/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/nation-world/china-takes-a-page-from-spacex-and-recaptures-the-first-stage-of-a-rocket-to-reuse-it/#respond</comments>
-            <pubDate>Fri, 10 Jul 2026 02:18:10 -0700</pubDate>
-            <dc:creator><![CDATA[The Associated Press]]></dc:creator>
-            <category>
-                <![CDATA[ Nation & World, Science]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/china-takes-a-page-from-spacex-and-recaptures-the-first-stage-of-a-rocket-to-reuse-it/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org6d695fcad64a101dc3991c1bfa0e7357China_Space_332_7.jpg?d=1200x630"><br/>China has successfully recaptured the first stage of a rocket after a launch, marking a breakthrough for its space program.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 253/1572 objects using Memcached
+Object Caching 427/1350 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-12 12:58:31 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-12 14:09:06 by W3 Total Cache
 -->
