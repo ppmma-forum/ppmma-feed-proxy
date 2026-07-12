@@ -12,7 +12,7 @@
 	<atom:link href="https://www.seattletimes.com/life/food-drink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Food &amp; Drink section brings you news about the Seattle restaurant and bar scene such as openings, closings, news about chefs and advice on where to go for a great meal or happy hour. </description>
-	<lastBuildDate>Sat, 11 Jul 2026 11:33:10 -0700</lastBuildDate>
+	<lastBuildDate>Sat, 11 Jul 2026 18:27:47 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
@@ -51,7 +51,7 @@
                 <![CDATA[ Food & Drink, Life]]>
             </category>
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19767290</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07092026_tzr_tzr_164553.jpg?d=1200x630"><br/>Joyale, the sprawling Chinatown ID dim sum hall, is ending weekday service. Its owner nearly closed for good this week before striking a deal to remain afloat.]]></description>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07112026_tzr_tzr_150146.jpg?d=1200x630"><br/>Joyale, the sprawling Chinatown ID dim sum hall, is ending weekday service. Its owner nearly closed for good this week before striking a deal to remain afloat.]]></description>
                                             </item>
         <item>
             <title>This Bellevue supper club for seniors is the hottest ticket in town</title>
@@ -407,7 +407,7 @@
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 503/1140 objects using Memcached
+Object Caching 717/728 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-11 14:32:51 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-12 00:33:22 by W3 Total Cache
 -->

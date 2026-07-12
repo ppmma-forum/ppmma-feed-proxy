@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/business/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times business section covers Seattle, the Eastside including Bellevue, Snohomish County, the Puget Sound region and Pacific Northwest. Coverage includes Amazon; Boeing and aerospace; Microsoft and technology; Starbucks, Nordstrom and retail; the state and U.S. economy, commercial and residential real estate; personal finances; and stock markets. Columnist Jonathan Talton is featured.</description>
-	<lastBuildDate>Sat, 11 Jul 2026 14:13:01 -0700</lastBuildDate>
+	<lastBuildDate>Sat, 11 Jul 2026 22:07:25 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>Focus turns to building stronger institutions in Africa to speed shift to renewable energy</title>
+                        <link>https://www.seattletimes.com/business/focus-turns-to-building-stronger-institutions-in-africa-to-speed-shift-to-renewable-energy/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_business</link>
+            <comments>https://www.seattletimes.com/business/focus-turns-to-building-stronger-institutions-in-africa-to-speed-shift-to-renewable-energy/#respond</comments>
+            <pubDate>Sat, 11 Jul 2026 22:06:16 -0700</pubDate>
+            <dc:creator><![CDATA[BY ALLAN OLINGO]]></dc:creator>
+            <category>
+                <![CDATA[ Business, Nation & World]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/news/focus-turns-to-building-stronger-institutions-in-africa-to-speed-shift-to-renewable-energy/</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org290f6f3dd0a6f4b71d5d1e280a41e060Africa-Clean-Energy-Funding_93679.jpg?d=1200x630"><br/>Africa’s renewable energy transition is entering a new phase as the continent shifts from proving that clean energy works to building the institutions needed to deploy it at scale.]]></description>
+                                            </item>
         <item>
             <title>Trinidad and Tobago signs agreements with US companies that pave the way for data centers</title>
                         <link>https://www.seattletimes.com/business/trinidad-and-tobago-signs-agreements-with-us-companies-that-pave-the-way-for-data-centers/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_business</link>
@@ -425,25 +437,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/news/new-york-construction-scare-highlights-the-challenges-of-converting-offices-into-housing/</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07102026_NYtower_tzr_081840.jpg?d=1200x630"><br/>The buckling of two steel columns at the former Pfizer headquarters has raised questions about one of the nation’s largest office-to-apartment conversions.]]></description>
                                             </item>
-        <item>
-            <title>US stocks rise as Wall Street shows it&#8217;s still hungry for AI winners</title>
-                        <link>https://www.seattletimes.com/business/asian-stocks-climb-and-oil-prices-slip-as-traders-monitor-iran-war-developments/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_business</link>
-            <comments>https://www.seattletimes.com/business/asian-stocks-climb-and-oil-prices-slip-as-traders-monitor-iran-war-developments/#respond</comments>
-            <pubDate>Fri, 10 Jul 2026 00:03:05 -0700</pubDate>
-            <dc:creator><![CDATA[Stan Choe]]></dc:creator>
-            <category>
-                <![CDATA[ Business, Economy, Markets, Nation]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/asian-stocks-climb-and-oil-prices-slip-as-traders-monitor-iran-war-developments/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.org9563a33b0789edf00cf92e76c6516fe5Financial_Markets_Wall_Street__9615.jpg?d=1200x630"><br/>U.S. stocks ticked higher after Wall Street showed its appetite is still big for winners of the artificial-intelligence boom.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 524/1114 objects using Memcached
+Object Caching 607/988 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-11 14:38:57 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-12 00:38:35 by W3 Total Cache
 -->
