@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/life/food-drink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Food &amp; Drink section brings you news about the Seattle restaurant and bar scene such as openings, closings, news about chefs and advice on where to go for a great meal or happy hour. </description>
-	<lastBuildDate>Sat, 11 Jul 2026 18:27:47 -0700</lastBuildDate>
+	<lastBuildDate>Sun, 12 Jul 2026 06:00:04 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>A spicy twist on classic tomato soup</title>
+                        <link>https://www.seattletimes.com/life/food-drink/a-spicy-twist-on-classic-tomato-soup/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
+            <comments>https://www.seattletimes.com/life/food-drink/a-spicy-twist-on-classic-tomato-soup/#respond</comments>
+            <pubDate>Sun, 12 Jul 2026 06:00:04 -0700</pubDate>
+            <dc:creator><![CDATA[Kayla Hoang]]></dc:creator>
+            <category>
+                <![CDATA[ Food & Drink, Life]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19759142</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07102026_tzr_tzr_131141.jpg?d=1200x630"><br/>In this recipe, Calabrian chilies turn up the heat and the oven does most of the heavy lifting in creating a flavorful base. ]]></description>
+                                            </item>
         <item>
             <title>‘Budd’ Gould, founder of PNW’s Anthony’s Restaurants, dies at 85</title>
                         <link>https://www.seattletimes.com/life/food-drink/budd-gould-founder-of-pnws-anthonys-restaurants-dies-at-85/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
@@ -389,25 +401,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/?p=19716499</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06222026_tzr_tzr_113051.jpg?d=1200x630"><br/>Our restaurant-debut roll call continues with a half-dozen new places to try this summer. These six new restaurants stretch from Capitol Hill to Columbia City.]]></description>
                                             </item>
-        <item>
-            <title>Americans are spending billions on wine trips, and 2026&#8217;s most surprising vineyards are nowhere near Napa</title>
-                        <link>https://www.seattletimes.com/life/food-drink/americans-are-spending-billions-on-wine-trips-and-2026s-most-surprising-vineyards-are-nowhere-near-napa/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
-            <comments>https://www.seattletimes.com/life/food-drink/americans-are-spending-billions-on-wine-trips-and-2026s-most-surprising-vineyards-are-nowhere-near-napa/#respond</comments>
-            <pubDate>Mon, 29 Jun 2026 07:37:03 -0700</pubDate>
-            <dc:creator><![CDATA[Mandy Applegate]]></dc:creator>
-            <category>
-                <![CDATA[ Food & Drink]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/americans-are-spending-billions-on-wine-trips-and-2026s-most-surprising-vineyards-are-nowhere-near-napa/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.org3ac3832630fcc2dc19eb8327653f0c3dWine-tasting-group_1600x900.jpg?d=1200x630"><br/>The picture most people carry of a wine trip is fixed: rolling rows in Napa or Sonoma, a cellar in Bordeaux, a Tuscan hillside at golden hour. It is a lovely picture, but it is increasingly out of date. Americans are pouring billions into wine travel, and a growing share of that money is leaving [&hellip;]]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 477/1094 objects using Memcached
+Object Caching 535/1017 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-12 04:02:17 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-12 06:57:57 by W3 Total Cache
 -->
