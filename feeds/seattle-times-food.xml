@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/life/food-drink/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Food &amp; Drink section brings you news about the Seattle restaurant and bar scene such as openings, closings, news about chefs and advice on where to go for a great meal or happy hour. </description>
-	<lastBuildDate>Mon, 13 Jul 2026 06:48:07 -0700</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jul 2026 05:13:01 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>The best healthy eating tips of 2026 (so far)</title>
+                        <link>https://www.seattletimes.com/nation-world/the-best-healthy-eating-tips-of-2026-so-far/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
+            <comments>https://www.seattletimes.com/nation-world/the-best-healthy-eating-tips-of-2026-so-far/#respond</comments>
+            <pubDate>Tue, 14 Jul 2026 05:13:01 -0700</pubDate>
+            <dc:creator><![CDATA[Amanda Schupak]]></dc:creator>
+            <category>
+                <![CDATA[ Food & Drink, Health, Nation & World]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19774365</guid>
+            <description><![CDATA[<img src="https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"><br/>From froyo to fiber, here's a nutrition reporter's take on the latest news, studies and trends about our diets and our health.]]></description>
+                                            </item>
         <item>
             <title>Americans are choosing Portugal in record numbers, and the trips they are booking are nowhere near Lisbon or the Algarve</title>
                         <link>https://www.seattletimes.com/life/food-drink/americans-are-choosing-portugal-in-record-numbers-and-the-trips-they-are-booking-are-nowhere-near-lisbon-or-the-algarve/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
@@ -401,25 +413,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/news/the-15-breakfast-habit-quietly-draining-your-wallet/</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/urnpublicidap.org192bd24d09d4964d907d411e56d7625dHearty-Breakfast-Sandwich-on-a-Bagel-1.jpg?d=1200x630"><br/>Egg prices in the United States have fallen 35.2% over the past year, one of the sharpest year-over-year drops in the federal government&#8217;s May inflation report. However, the cost of buying breakfast on the way to work is still moving in the other direction. Two breakfasts moving in opposite directions In recent years, eggs were [&hellip;]]]></description>
                                             </item>
-        <item>
-            <title>Strawberries and (molded Devonshire) cream have never tasted so sweet</title>
-                        <link>https://www.seattletimes.com/life/food-drink/strawberries-and-molded-devonshire-cream-have-never-tasted-so-sweet/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_food-drink</link>
-            <comments>https://www.seattletimes.com/life/food-drink/strawberries-and-molded-devonshire-cream-have-never-tasted-so-sweet/#respond</comments>
-            <pubDate>Tue, 30 Jun 2026 06:00:00 -0700</pubDate>
-            <dc:creator><![CDATA[Danie Baker]]></dc:creator>
-            <category>
-                <![CDATA[ Food & Drink, Life]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/?p=19735100</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/06/06292026_tzr_tzr_123415.jpg?d=1200x630"><br/>Our recipe writer adapts another recipe from The Seattle Times archive, this time a delightful strawberries and cream dessert.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 129/1500 objects using Memcached
+Object Caching 457/1103 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-13 11:21:06 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-14 05:44:49 by W3 Total Cache
 -->
