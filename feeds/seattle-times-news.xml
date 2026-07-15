@@ -12,11 +12,23 @@
 	<atom:link href="https://www.seattletimes.com/seattle-news/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.seattletimes.com</link>
 	<description>The Seattle Times Local section covers Seattle, the Eastside, Snohomish County, the Puget Sound region and the Pacific Northwest. Coverage includes breaking news, crime, transportation, politics, education, health and medical, the environment, science and legalized marijuana. Also, columnists Danny Westneat, Jerry Large and Nicole Brodeur, investigative reporting and Times Watchdog coverage.</description>
-	<lastBuildDate>Wed, 15 Jul 2026 13:04:57 -0700</lastBuildDate>
+	<lastBuildDate>Wed, 15 Jul 2026 14:21:33 -0700</lastBuildDate>
 	<language>en-US</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.9.4</generator>
+        <item>
+            <title>Scott Bryce, actor known for &#8216;As the World Turns,&#8217; dies at 68</title>
+                        <link>https://www.seattletimes.com/nation-world/scott-bryce-actor-known-for-as-the-world-turns-dies-at-68/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
+            <comments>https://www.seattletimes.com/nation-world/scott-bryce-actor-known-for-as-the-world-turns-dies-at-68/#respond</comments>
+            <pubDate>Wed, 15 Jul 2026 13:52:26 -0700</pubDate>
+            <dc:creator><![CDATA[Tracy Brown]]></dc:creator>
+            <category>
+                <![CDATA[ Entertainment, Nation, Nation & World, Obituaries, TV/Streaming]]>
+            </category>
+            <guid isPermaLink="false">https://www.seattletimes.com/?p=19780972</guid>
+            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07152026_ScottBryce-tzrJuly15_tzr_134335.jpg?d=1200x630"><br/>The son of soap-opera actors, he made his TV debut on CBS' long-running "As the World Turns" in 1982. He also acted in theater and was a producer and director.]]></description>
+                                            </item>
         <item>
             <title>Hegseth announces new policy to test troops for low testosterone</title>
                         <link>https://www.seattletimes.com/seattle-news/health/hegseth-announces-new-policy-to-test-troops-for-low-testosterone/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
@@ -102,7 +114,7 @@
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/07142026_SullyGetty-tzrJuly14_tzr_155251.jpg?d=1200x630"><br/>Capt. Chesley “Sully” Sullenberger said his “journey” of living with Alzheimer's began a year ago after he noticed that something was “a bit off” with what he describes as his photographic memory.]]></description>
                                             </item>
         <item>
-            <title>CDC nominee says she won&#8217;t betray science — and also backs Kennedy&#8217;s actions</title>
+            <title>CDC nominee says she won&#8217;t betray science — and backs Kennedy&#8217;s actions</title>
                         <link>https://www.seattletimes.com/seattle-news/health/senate-committee-reviews-erica-schwartzs-nomination-to-take-over-beleaguered-cdc/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
             <comments>https://www.seattletimes.com/seattle-news/health/senate-committee-reviews-erica-schwartzs-nomination-to-take-over-beleaguered-cdc/#respond</comments>
             <pubDate>Wed, 15 Jul 2026 07:28:15 -0700</pubDate>
@@ -389,25 +401,13 @@
             <guid isPermaLink="false">https://www.seattletimes.com/news/new-diagnoses-slow-in-nyc-legionnaires-disease-outbreak-source-still-unclear/</guid>
             <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2026/07/urnpublicidap.orgee3af424265c8d4f7f8c28f85c5a50edLegionnaires_Explainer_9185_.jpg?d=1200x630"><br/>Health officials say a Legionnaires’ disease outbreak in Manhattan’s Upper East Side now counts 60 cases, but new diagnoses are slowing.]]></description>
                                             </item>
-        <item>
-            <title>26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave</title>
-                        <link>https://www.seattletimes.com/business/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_seattle-news</link>
-            <comments>https://www.seattletimes.com/business/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave/#respond</comments>
-            <pubDate>Tue, 14 Jul 2026 14:43:13 -0700</pubDate>
-            <dc:creator><![CDATA[BARBARA ORTUTAY and ALEXANDRA OLSON]]></dc:creator>
-            <category>
-                <![CDATA[ Business, Health, Nation, Technology]]>
-            </category>
-            <guid isPermaLink="false">https://www.seattletimes.com/news/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave/</guid>
-            <description><![CDATA[<img src="https://images.seattletimes.com/wp-content/uploads/2025/11/11182025_tzr_tzr_102035.jpg?d=1200x630"><br/>A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems that disproportionately targeted those on medical or family leave for layoffs.]]></description>
-                                            </item>
     </channel>
 </rss>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 545/1081 objects using Memcached
+Object Caching 320/1415 objects using Memcached
 
-Served from: www.seattletimes.com @ 2026-07-15 13:05:17 by W3 Total Cache
+Served from: www.seattletimes.com @ 2026-07-15 14:24:10 by W3 Total Cache
 -->
